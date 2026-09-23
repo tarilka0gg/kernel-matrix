@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver), embedded controller: MSI, no cellular modem.
+# score=9600 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/xe
+platform/laptop
+ec/msi
+modem/none

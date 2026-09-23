@@ -1,0 +1,7 @@
+# Server on Intel Core 10 gen mobile (Ice Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+# score=12 (popularity priority within top-999999)
+cpu/intel-icelake
+gpu/radeon-legacy
+platform/server
+ec/all
+modem/all

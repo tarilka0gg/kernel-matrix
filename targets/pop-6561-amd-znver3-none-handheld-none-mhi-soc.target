@@ -1,0 +1,7 @@
+# Handheld on AMD Ryzen 5000 (Zen 3), no separate GPU driver, embedded controller: no vendor EC/WMI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=216 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/none
+platform/handheld
+ec/none
+modem/mhi-soc

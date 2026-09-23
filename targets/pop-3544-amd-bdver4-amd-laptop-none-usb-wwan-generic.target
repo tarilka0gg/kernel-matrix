@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=2880 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/amd
+platform/laptop
+ec/none
+modem/usb-wwan-generic

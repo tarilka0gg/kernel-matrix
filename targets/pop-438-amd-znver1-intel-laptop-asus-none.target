@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), integrated Intel (i915), embedded controller: ASUS, no cellular modem.
+# score=37800 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/intel
+platform/laptop
+ec/asus
+modem/none

@@ -1,0 +1,6 @@
+default.config — a fixed seed for the matrix (previously the seed came from the source
+tree's .config, meaning it depended on the state of the build machine: DEBUG_INFO, AutoFDO,
+native-CPU, "leaked" fragments).
+Origin: config-7.1.6-cachyos-trim11-tuned (a verified build+boot, DEBUG_INFO_NONE, LTO_NONE, HZ=1000, BORE).
+To update the seed for a new kernel branch: copy a fresh verified .config here and run verify-fragments.sh.
+Override for one run: --seed <file> (matrix-build.sh) or SEED=<file> (build-batch-jobserver.sh).

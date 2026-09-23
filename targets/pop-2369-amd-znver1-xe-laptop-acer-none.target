@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Acer, no cellular modem.
+# score=6000 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/xe
+platform/laptop
+ec/acer
+modem/none

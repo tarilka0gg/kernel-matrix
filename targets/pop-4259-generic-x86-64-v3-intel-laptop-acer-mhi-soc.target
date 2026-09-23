@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), integrated Intel (i915), embedded controller: Acer, with a PCIe/SoC modem (Snapdragon X-like).
+# score=1800 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/intel
+platform/laptop
+ec/acer
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915), embedded controller: Toshiba, with a USB WWAN modem.
+# score=432 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/intel
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

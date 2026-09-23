@@ -1,0 +1,7 @@
+# Server on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=27 (popularity priority within top-999999)
+cpu/amd-btver2
+gpu/intel
+platform/server
+ec/all
+modem/all

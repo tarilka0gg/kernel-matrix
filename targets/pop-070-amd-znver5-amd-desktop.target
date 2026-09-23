@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=256 (popularity priority within top-999999)
+cpu/amd-znver5
+gpu/amd
+platform/desktop
+ec/all
+modem/all

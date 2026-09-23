@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 3000/4000 (Zen 2), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Acer, no cellular modem.
+# score=40000 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/amd
+platform/laptop
+ec/acer
+modem/none

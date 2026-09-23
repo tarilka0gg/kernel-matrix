@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=5600 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/amd
+platform/laptop
+ec/asus
+modem/mhi-soc

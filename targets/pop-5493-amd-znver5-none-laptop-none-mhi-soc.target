@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), no separate GPU driver, embedded controller: no vendor EC/WMI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=720 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/none
+platform/laptop
+ec/none
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Toshiba, with a PCIe/SoC modem (Snapdragon X-like).
+# score=960 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/amd
+platform/laptop
+ec/toshiba
+modem/mhi-soc

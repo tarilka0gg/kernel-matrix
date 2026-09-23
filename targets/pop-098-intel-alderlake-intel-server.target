@@ -1,0 +1,7 @@
+# Server on Intel Core 12 gen (Alder Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=189 (popularity priority within top-999999)
+cpu/intel-alderlake
+gpu/intel
+platform/server
+ec/all
+modem/all

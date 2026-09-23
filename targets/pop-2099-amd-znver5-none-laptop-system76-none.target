@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), no separate GPU driver, embedded controller: System76, no cellular modem.
+# score=7200 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/none
+platform/laptop
+ec/system76
+modem/none

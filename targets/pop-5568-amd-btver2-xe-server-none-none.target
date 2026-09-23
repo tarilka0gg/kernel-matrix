@@ -1,0 +1,7 @@
+# Server on AMD Jaguar (btver2, low-voltage APUs), Intel Arc/Battlemage+ (new Xe driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=720 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/xe
+platform/server
+ec/none
+modem/none

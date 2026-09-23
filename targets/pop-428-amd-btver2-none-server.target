@@ -1,0 +1,7 @@
+# Server on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=9 (popularity priority within top-999999)
+cpu/amd-btver2
+gpu/none
+platform/server
+ec/all
+modem/all

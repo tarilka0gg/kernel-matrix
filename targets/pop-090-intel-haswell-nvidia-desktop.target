@@ -1,0 +1,7 @@
+# Desktop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=192 (popularity priority within top-999999)
+cpu/intel-haswell
+gpu/nvidia
+platform/desktop
+ec/all
+modem/all

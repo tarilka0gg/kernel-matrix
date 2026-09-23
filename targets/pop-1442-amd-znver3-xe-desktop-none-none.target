@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=11520 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/xe
+platform/desktop
+ec/none
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 4-5 gen (Haswell/Broadwell), integrated Intel (i915), embedded controller: System76, with a PCIe/SoC modem (Snapdragon X-like).
+# score=810 (popularity priority within top-11000)
+cpu/intel-haswell
+gpu/intel
+platform/laptop
+ec/system76
+modem/mhi-soc

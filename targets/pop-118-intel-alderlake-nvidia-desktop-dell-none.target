@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (proprietary driver), embedded controller: Dell, no cellular modem.
+# score=71680 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/nvidia
+platform/desktop
+ec/dell
+modem/none

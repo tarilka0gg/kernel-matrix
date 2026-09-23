@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (proprietary driver), embedded controller: Dell, with a USB WWAN modem.
+# score=6144 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/nvidia
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

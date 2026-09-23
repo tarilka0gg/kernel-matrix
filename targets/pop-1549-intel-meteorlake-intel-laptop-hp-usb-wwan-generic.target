@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), integrated Intel (i915), embedded controller: HP, with a USB WWAN modem.
+# score=10800 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/intel
+platform/laptop
+ec/hp
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), integrated Intel (i915), embedded controller: System76, no cellular modem.
+# score=27000 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/intel
+platform/laptop
+ec/system76
+modem/none

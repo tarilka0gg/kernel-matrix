@@ -1,0 +1,7 @@
+# Server on Intel Core 4-5 gen (Haswell/Broadwell), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=27 (popularity priority within top-999999)
+cpu/intel-haswell
+gpu/none
+platform/server
+ec/all
+modem/all

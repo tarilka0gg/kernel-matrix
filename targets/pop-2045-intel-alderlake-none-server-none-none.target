@@ -1,0 +1,7 @@
+# Server on Intel Core 12 gen (Alder Lake), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=7560 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/none
+platform/server
+ec/none
+modem/none

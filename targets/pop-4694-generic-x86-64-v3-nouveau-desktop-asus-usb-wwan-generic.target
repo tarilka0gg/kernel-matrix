@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=1344 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

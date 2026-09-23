@@ -1,0 +1,7 @@
+# Handheld on AMD Ryzen 9000 (Zen 5), no separate GPU driver, embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=168 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/none
+platform/handheld
+ec/asus
+modem/mhi-soc

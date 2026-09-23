@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), no separate GPU driver, embedded controller: MSI, with a USB WWAN modem.
+# score=720 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/none
+platform/laptop
+ec/msi
+modem/usb-wwan-generic

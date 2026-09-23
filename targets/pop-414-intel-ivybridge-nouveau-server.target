@@ -1,0 +1,7 @@
+# Server on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=12 (popularity priority within top-999999)
+cpu/intel-ivybridge
+gpu/nouveau
+platform/server
+ec/all
+modem/all

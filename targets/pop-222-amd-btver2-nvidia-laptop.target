@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=80 (popularity priority within top-999999)
+cpu/amd-btver2
+gpu/nvidia
+platform/laptop
+ec/all
+modem/all

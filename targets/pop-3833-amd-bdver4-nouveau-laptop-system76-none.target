@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver), embedded controller: System76, no cellular modem.
+# score=2400 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nouveau
+platform/laptop
+ec/system76
+modem/none

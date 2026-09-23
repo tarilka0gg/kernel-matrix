@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=576 (popularity priority within top-999999)
+cpu/amd-znver4
+gpu/nvidia
+platform/desktop
+ec/all
+modem/all

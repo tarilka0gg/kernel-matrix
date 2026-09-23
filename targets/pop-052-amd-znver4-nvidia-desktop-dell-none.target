@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (proprietary driver), embedded controller: Dell, no cellular modem.
+# score=92160 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/nvidia
+platform/desktop
+ec/dell
+modem/none

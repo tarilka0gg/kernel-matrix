@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: HP, with a PCIe/SoC modem (Snapdragon X-like).
+# score=3200 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/amd
+platform/laptop
+ec/hp
+modem/mhi-soc

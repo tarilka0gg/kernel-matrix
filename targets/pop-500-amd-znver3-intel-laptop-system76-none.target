@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: System76, no cellular modem.
+# score=32400 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/laptop
+ec/system76
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=9600 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/amd
+platform/laptop
+ec/none
+modem/none

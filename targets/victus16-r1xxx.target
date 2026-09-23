@@ -1,0 +1,9 @@
+# A specific device — NOT part of the matrix sweep (no point
+# iterating znver4+server alongside this model). Invoked separately:
+#   matrix-build.sh SRC OUT --target victus16-r1xxx [--build]
+cpu/intel-raptorlake
+gpu/nvidia
+platform/laptop
+platform/victus16-r1xxx
+ec/hp
+modem/none

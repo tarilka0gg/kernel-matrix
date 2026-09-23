@@ -1,0 +1,7 @@
+# Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=432 (popularity priority within top-999999)
+cpu/intel-skylake
+gpu/intel
+platform/desktop
+ec/all
+modem/all

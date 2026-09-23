@@ -1,0 +1,7 @@
+# Desktop on Intel Core 2 gen (Sandy Bridge), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=2304 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/amd
+platform/desktop
+ec/none
+modem/usb-wwan-generic

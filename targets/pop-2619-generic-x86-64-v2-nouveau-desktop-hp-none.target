@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (open nouveau driver), embedded controller: HP, no cellular modem.
+# score=5120 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/nouveau
+platform/desktop
+ec/hp
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), integrated Intel (i915), embedded controller: Acer, no cellular modem.
+# score=18000 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/intel
+platform/laptop
+ec/acer
+modem/none

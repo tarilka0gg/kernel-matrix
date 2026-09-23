@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 2 (Arrow Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+# score=40 (popularity priority within top-999999)
+cpu/intel-arrowlake
+gpu/radeon-legacy
+platform/laptop
+ec/all
+modem/all

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), integrated Intel (i915), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=2520 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/intel
+platform/laptop
+ec/asus
+modem/mhi-soc

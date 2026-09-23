@@ -1,0 +1,7 @@
+# Laptop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (proprietary driver), embedded controller: System76, no cellular modem.
+# score=19200 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/nvidia
+platform/laptop
+ec/system76
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=10368 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/nvidia
+platform/desktop
+ec/none
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), older AMD/ATI cards pre-GCN (radeon), embedded controller: Toshiba, no cellular modem.
+# score=800 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/radeon-legacy
+platform/laptop
+ec/toshiba
+modem/none

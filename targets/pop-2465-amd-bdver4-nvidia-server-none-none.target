@@ -1,0 +1,7 @@
+# Server on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=5760 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nvidia
+platform/server
+ec/none
+modem/none

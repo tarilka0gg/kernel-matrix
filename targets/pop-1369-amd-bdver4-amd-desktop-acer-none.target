@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Acer, no cellular modem.
+# score=12800 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/amd
+platform/desktop
+ec/acer
+modem/none

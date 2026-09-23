@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=14400 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/nvidia
+platform/laptop
+ec/none
+modem/usb-wwan-generic

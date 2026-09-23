@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=10368 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nvidia
+platform/desktop
+ec/lenovo
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 2 gen (Sandy Bridge), integrated Intel (i915), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a PCIe/SoC modem (Snapdragon X-like).
+# score=1620 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/intel
+platform/laptop
+ec/lenovo
+modem/mhi-soc

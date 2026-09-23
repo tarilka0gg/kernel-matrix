@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver, embedded controller: System76, no cellular modem.
+# score=1440 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/none
+platform/desktop
+ec/system76
+modem/none

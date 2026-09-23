@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), no separate GPU driver, embedded controller: Samsung, with a USB WWAN modem.
+# score=1008 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/none
+platform/desktop
+ec/samsung
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver, embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=10800 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/none
+platform/laptop
+ec/lenovo
+modem/none

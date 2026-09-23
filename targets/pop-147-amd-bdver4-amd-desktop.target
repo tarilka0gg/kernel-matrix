@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=128 (popularity priority within top-999999)
+cpu/amd-bdver4
+gpu/amd
+platform/desktop
+ec/all
+modem/all

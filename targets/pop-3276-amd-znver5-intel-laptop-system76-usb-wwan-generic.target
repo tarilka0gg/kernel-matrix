@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), integrated Intel (i915), embedded controller: System76, with a USB WWAN modem.
+# score=3240 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/intel
+platform/laptop
+ec/system76
+modem/usb-wwan-generic

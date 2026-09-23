@@ -1,0 +1,7 @@
+# Handheld on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=384 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/amd
+platform/handheld
+ec/none
+modem/mhi-soc

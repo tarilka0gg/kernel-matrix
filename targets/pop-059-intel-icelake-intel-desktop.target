@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=288 (popularity priority within top-999999)
+cpu/intel-icelake
+gpu/intel
+platform/desktop
+ec/all
+modem/all

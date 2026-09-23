@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 3000/4000 (Zen 2), integrated Intel (i915), embedded controller: MSI, no cellular modem.
+# score=36000 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/intel
+platform/laptop
+ec/msi
+modem/none

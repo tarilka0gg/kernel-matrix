@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver), embedded controller: ASUS, no cellular modem.
+# score=89600 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/nvidia
+platform/desktop
+ec/asus
+modem/none

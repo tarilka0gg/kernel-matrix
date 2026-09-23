@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915), embedded controller: ASUS, no cellular modem.
+# score=10080 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/intel
+platform/desktop
+ec/asus
+modem/none

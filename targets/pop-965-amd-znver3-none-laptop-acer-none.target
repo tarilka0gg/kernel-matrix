@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), no separate GPU driver, embedded controller: Acer, no cellular modem.
+# score=18000 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/none
+platform/laptop
+ec/acer
+modem/none

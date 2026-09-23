@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (proprietary driver), embedded controller: System76, no cellular modem.
+# score=11520 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/nvidia
+platform/desktop
+ec/system76
+modem/none

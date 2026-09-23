@@ -1,0 +1,7 @@
+# Laptop on Intel Core 11 gen desktop (Rocket Lake), integrated Intel (i915), embedded controller: MSI, with a USB WWAN modem.
+# score=4320 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/intel
+platform/laptop
+ec/msi
+modem/usb-wwan-generic

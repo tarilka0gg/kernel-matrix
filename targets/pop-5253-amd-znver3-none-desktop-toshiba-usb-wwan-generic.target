@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), no separate GPU driver, embedded controller: Toshiba, with a USB WWAN modem.
+# score=864 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/none
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

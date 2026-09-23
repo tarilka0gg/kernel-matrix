@@ -1,0 +1,7 @@
+# Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (proprietary driver), embedded controller: Acer, no cellular modem.
+# score=38400 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/nvidia
+platform/desktop
+ec/acer
+modem/none

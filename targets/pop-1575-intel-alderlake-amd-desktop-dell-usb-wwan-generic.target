@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Dell, with a USB WWAN modem.
+# score=10752 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/amd
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, no cellular modem.
+# score=80640 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/amd
+platform/desktop
+ec/asus
+modem/none

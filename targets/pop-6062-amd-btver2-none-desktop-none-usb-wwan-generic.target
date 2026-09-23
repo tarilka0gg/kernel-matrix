@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver, embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=432 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/none
+platform/desktop
+ec/none
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 2 (Arrow Lake), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Acer, no cellular modem.
+# score=8000 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/xe
+platform/laptop
+ec/acer
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=900 (popularity priority within top-999999)
+cpu/intel-raptorlake
+gpu/intel
+platform/laptop
+ec/all
+modem/all

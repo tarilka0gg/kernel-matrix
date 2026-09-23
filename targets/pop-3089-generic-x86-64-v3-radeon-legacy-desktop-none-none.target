@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v3 CPU (safe fallback), older AMD/ATI cards pre-GCN (radeon), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/radeon-legacy
+platform/desktop
+ec/none
+modem/none

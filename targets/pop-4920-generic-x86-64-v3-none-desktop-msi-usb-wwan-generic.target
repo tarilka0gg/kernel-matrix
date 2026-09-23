@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v3 CPU (safe fallback), no separate GPU driver, embedded controller: MSI, with a USB WWAN modem.
+# score=1152 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/none
+platform/desktop
+ec/msi
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (open nouveau driver), embedded controller: Samsung, no cellular modem.
+# score=5760 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/nouveau
+platform/desktop
+ec/samsung
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), older AMD/ATI cards pre-GCN (radeon), embedded controller: System76, no cellular modem.
+# score=5400 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/radeon-legacy
+platform/laptop
+ec/system76
+modem/none

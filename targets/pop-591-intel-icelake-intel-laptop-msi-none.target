@@ -1,0 +1,7 @@
+# Laptop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915), embedded controller: MSI, no cellular modem.
+# score=28800 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/intel
+platform/laptop
+ec/msi
+modem/none

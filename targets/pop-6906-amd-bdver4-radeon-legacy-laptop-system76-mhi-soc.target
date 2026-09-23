@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), older AMD/ATI cards pre-GCN (radeon), embedded controller: System76, with a PCIe/SoC modem (Snapdragon X-like).
+# score=60 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/radeon-legacy
+platform/laptop
+ec/system76
+modem/mhi-soc

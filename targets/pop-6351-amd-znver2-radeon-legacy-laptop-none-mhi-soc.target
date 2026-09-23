@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 3000/4000 (Zen 2), older AMD/ATI cards pre-GCN (radeon), embedded controller: no vendor EC/WMI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=300 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/radeon-legacy
+platform/laptop
+ec/none
+modem/mhi-soc

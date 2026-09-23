@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=7776 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/intel
+platform/desktop
+ec/lenovo
+modem/usb-wwan-generic

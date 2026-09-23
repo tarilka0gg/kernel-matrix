@@ -1,0 +1,7 @@
+# Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=384 (popularity priority within top-999999)
+cpu/intel-skylake
+gpu/amd
+platform/desktop
+ec/all
+modem/all

@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=2700 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/xe
+platform/laptop
+ec/lenovo
+modem/usb-wwan-generic

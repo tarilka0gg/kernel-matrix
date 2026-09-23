@@ -1,0 +1,7 @@
+# Server on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=48 (popularity priority within top-999999)
+cpu/generic-x86-64-v2
+gpu/nvidia
+platform/server
+ec/all
+modem/all

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (proprietary driver), embedded controller: System76, with a PCIe/SoC modem (Snapdragon X-like).
+# score=720 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/nvidia
+platform/laptop
+ec/system76
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Server on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=19440 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/server
+ec/none
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=2352 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

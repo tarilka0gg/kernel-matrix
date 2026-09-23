@@ -1,0 +1,7 @@
+# Server on Intel Core Ultra 1 (Meteor Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=135 (popularity priority within top-999999)
+cpu/intel-meteorlake
+gpu/intel
+platform/server
+ec/all
+modem/all

@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Acer, with a USB WWAN modem.
+# score=6000 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/amd
+platform/laptop
+ec/acer
+modem/usb-wwan-generic

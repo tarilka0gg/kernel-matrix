@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (proprietary driver), embedded controller: Samsung, with a USB WWAN modem.
+# score=1920 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/nvidia
+platform/laptop
+ec/samsung
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a PCIe/SoC modem (Snapdragon X-like).
+# score=6480 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/amd
+platform/laptop
+ec/lenovo
+modem/mhi-soc

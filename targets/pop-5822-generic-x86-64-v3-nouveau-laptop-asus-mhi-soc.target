@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=560 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/nouveau
+platform/laptop
+ec/asus
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (proprietary driver), embedded controller: Samsung, with a USB WWAN modem.
+# score=1920 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/nvidia
+platform/laptop
+ec/samsung
+modem/usb-wwan-generic

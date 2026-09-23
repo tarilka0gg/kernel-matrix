@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver, embedded controller: MSI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=120 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/none
+platform/laptop
+ec/msi
+modem/mhi-soc

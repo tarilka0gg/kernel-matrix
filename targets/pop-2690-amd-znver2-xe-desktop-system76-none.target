@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 3000/4000 (Zen 2), Intel Arc/Battlemage+ (new Xe driver), embedded controller: System76, no cellular modem.
+# score=4800 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/xe
+platform/desktop
+ec/system76
+modem/none

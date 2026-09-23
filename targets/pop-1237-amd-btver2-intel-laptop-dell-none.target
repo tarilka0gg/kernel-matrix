@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915), embedded controller: Dell, no cellular modem.
+# score=14400 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/intel
+platform/laptop
+ec/dell
+modem/none

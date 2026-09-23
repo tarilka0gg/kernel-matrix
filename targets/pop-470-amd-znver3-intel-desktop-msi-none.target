@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: MSI, no cellular modem.
+# score=34560 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/desktop
+ec/msi
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Dell, with a PCIe/SoC modem (Snapdragon X-like).
+# score=320 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/xe
+platform/laptop
+ec/dell
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), older AMD/ATI cards pre-GCN (radeon), embedded controller: Dell, with a USB WWAN modem.
+# score=2160 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/radeon-legacy
+platform/laptop
+ec/dell
+modem/usb-wwan-generic

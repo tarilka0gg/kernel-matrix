@@ -1,0 +1,7 @@
+# Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=120 (popularity priority within top-999999)
+cpu/intel-skylake
+gpu/xe
+platform/laptop
+ec/all
+modem/all

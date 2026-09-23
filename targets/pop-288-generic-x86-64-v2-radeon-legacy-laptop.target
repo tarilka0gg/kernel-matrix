@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+# score=20 (popularity priority within top-999999)
+cpu/generic-x86-64-v2
+gpu/radeon-legacy
+platform/laptop
+ec/all
+modem/all

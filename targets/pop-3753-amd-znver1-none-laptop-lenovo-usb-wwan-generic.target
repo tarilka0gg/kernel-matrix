@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver, embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=2430 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/none
+platform/laptop
+ec/lenovo
+modem/usb-wwan-generic

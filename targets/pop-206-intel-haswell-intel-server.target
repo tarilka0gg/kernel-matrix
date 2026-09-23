@@ -1,0 +1,7 @@
+# Server on Intel Core 4-5 gen (Haswell/Broadwell), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=81 (popularity priority within top-999999)
+cpu/intel-haswell
+gpu/intel
+platform/server
+ec/all
+modem/all

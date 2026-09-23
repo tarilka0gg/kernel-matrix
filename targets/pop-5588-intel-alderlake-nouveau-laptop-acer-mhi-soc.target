@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (open nouveau driver), embedded controller: Acer, with a PCIe/SoC modem (Snapdragon X-like).
+# score=700 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/nouveau
+platform/laptop
+ec/acer
+modem/mhi-soc

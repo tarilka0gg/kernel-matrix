@@ -1,0 +1,7 @@
+# Laptop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (open nouveau driver), embedded controller: Dell, with a PCIe/SoC modem (Snapdragon X-like).
+# score=640 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/nouveau
+platform/laptop
+ec/dell
+modem/mhi-soc

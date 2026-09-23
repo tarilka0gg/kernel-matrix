@@ -1,0 +1,7 @@
+# Desktop on Intel Core 4-5 gen (Haswell/Broadwell), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Toshiba, no cellular modem.
+# score=7680 (popularity priority within top-11000)
+cpu/intel-haswell
+gpu/amd
+platform/desktop
+ec/toshiba
+modem/none

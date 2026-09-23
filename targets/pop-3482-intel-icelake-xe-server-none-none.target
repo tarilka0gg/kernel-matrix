@@ -1,0 +1,7 @@
+# Server on Intel Core 10 gen mobile (Ice Lake), Intel Arc/Battlemage+ (new Xe driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=2880 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/xe
+platform/server
+ec/none
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), older AMD/ATI cards pre-GCN (radeon), embedded controller: Acer, no cellular modem.
+# score=6000 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/radeon-legacy
+platform/laptop
+ec/acer
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=5760 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/nvidia
+platform/laptop
+ec/none
+modem/usb-wwan-generic

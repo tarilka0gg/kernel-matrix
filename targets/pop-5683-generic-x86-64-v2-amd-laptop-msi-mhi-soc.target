@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu), embedded controller: MSI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=640 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/amd
+platform/laptop
+ec/msi
+modem/mhi-soc

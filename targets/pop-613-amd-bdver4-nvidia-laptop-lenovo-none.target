@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (proprietary driver), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=28800 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nvidia
+platform/laptop
+ec/lenovo
+modem/none

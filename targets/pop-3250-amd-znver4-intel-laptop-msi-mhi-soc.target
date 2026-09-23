@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), integrated Intel (i915), embedded controller: MSI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=3240 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/intel
+platform/laptop
+ec/msi
+modem/mhi-soc

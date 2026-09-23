@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver, embedded controller: Samsung, no cellular modem.
+# score=3600 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/none
+platform/laptop
+ec/samsung
+modem/none

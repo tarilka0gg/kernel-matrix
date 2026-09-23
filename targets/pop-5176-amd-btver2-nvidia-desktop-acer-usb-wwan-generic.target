@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (proprietary driver), embedded controller: Acer, with a USB WWAN modem.
+# score=960 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/nvidia
+platform/desktop
+ec/acer
+modem/usb-wwan-generic

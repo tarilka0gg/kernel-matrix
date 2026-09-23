@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver), embedded controller: Dell, no cellular modem.
+# score=6400 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nouveau
+platform/laptop
+ec/dell
+modem/none

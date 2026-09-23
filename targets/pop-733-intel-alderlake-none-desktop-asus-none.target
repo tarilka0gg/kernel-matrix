@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), no separate GPU driver, embedded controller: ASUS, no cellular modem.
+# score=23520 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/none
+platform/desktop
+ec/asus
+modem/none

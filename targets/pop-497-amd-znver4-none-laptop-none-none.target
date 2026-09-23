@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=32400 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/none
+platform/laptop
+ec/none
+modem/none

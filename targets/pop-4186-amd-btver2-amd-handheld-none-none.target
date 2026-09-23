@@ -1,0 +1,7 @@
+# Handheld on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=1920 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/amd
+platform/handheld
+ec/none
+modem/none

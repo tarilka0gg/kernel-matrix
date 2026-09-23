@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (proprietary driver), embedded controller: HP, with a USB WWAN modem.
+# score=6144 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/nvidia
+platform/desktop
+ec/hp
+modem/usb-wwan-generic

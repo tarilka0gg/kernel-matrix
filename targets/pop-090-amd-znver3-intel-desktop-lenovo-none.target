@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=77760 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/desktop
+ec/lenovo
+modem/none

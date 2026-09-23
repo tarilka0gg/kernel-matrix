@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=3456 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/amd
+platform/desktop
+ec/lenovo
+modem/usb-wwan-generic

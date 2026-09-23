@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon), embedded controller: Dell, no cellular modem.
+# score=1600 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/radeon-legacy
+platform/laptop
+ec/dell
+modem/none

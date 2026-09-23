@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), integrated Intel (i915), embedded controller: Toshiba, no cellular modem.
+# score=25920 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/intel
+platform/desktop
+ec/toshiba
+modem/none

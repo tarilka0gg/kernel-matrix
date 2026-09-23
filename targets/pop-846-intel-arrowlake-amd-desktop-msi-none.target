@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: MSI, no cellular modem.
+# score=20480 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/amd
+platform/desktop
+ec/msi
+modem/none

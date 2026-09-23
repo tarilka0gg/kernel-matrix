@@ -1,0 +1,7 @@
+# Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Acer, with a USB WWAN modem.
+# score=5760 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/amd
+platform/desktop
+ec/acer
+modem/usb-wwan-generic

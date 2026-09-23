@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=4320 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/nvidia
+platform/laptop
+ec/none
+modem/usb-wwan-generic

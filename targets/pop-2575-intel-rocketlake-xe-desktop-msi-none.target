@@ -1,0 +1,7 @@
+# Desktop on Intel Core 11 gen desktop (Rocket Lake), Intel Arc/Battlemage+ (new Xe driver), embedded controller: MSI, no cellular modem.
+# score=5120 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/xe
+platform/desktop
+ec/msi
+modem/none

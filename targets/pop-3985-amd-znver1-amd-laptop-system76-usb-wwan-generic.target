@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu), embedded controller: System76, with a USB WWAN modem.
+# score=2160 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/amd
+platform/laptop
+ec/system76
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (open nouveau driver), embedded controller: System76, with a USB WWAN modem.
+# score=360 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/nouveau
+platform/laptop
+ec/system76
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), no separate GPU driver, embedded controller: Dell, with a USB WWAN modem.
+# score=4032 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/none
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

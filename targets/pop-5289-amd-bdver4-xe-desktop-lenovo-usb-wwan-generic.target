@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=864 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/xe
+platform/desktop
+ec/lenovo
+modem/usb-wwan-generic

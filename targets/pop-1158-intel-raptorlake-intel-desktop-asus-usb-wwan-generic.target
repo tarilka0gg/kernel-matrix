@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), integrated Intel (i915), embedded controller: ASUS, with a USB WWAN modem.
+# score=15120 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/intel
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

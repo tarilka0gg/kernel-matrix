@@ -1,0 +1,7 @@
+# Desktop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (proprietary driver), embedded controller: MSI, with a USB WWAN modem.
+# score=3072 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/nvidia
+platform/desktop
+ec/msi
+modem/usb-wwan-generic

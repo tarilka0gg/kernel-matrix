@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=320 (popularity priority within top-999999)
+cpu/generic-x86-64-v3
+gpu/amd
+platform/laptop
+ec/all
+modem/all

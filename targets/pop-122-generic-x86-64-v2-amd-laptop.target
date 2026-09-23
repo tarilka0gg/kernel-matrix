@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=160 (popularity priority within top-999999)
+cpu/generic-x86-64-v2
+gpu/amd
+platform/laptop
+ec/all
+modem/all

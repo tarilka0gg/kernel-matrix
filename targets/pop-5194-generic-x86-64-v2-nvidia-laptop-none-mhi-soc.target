@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=960 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/nvidia
+platform/laptop
+ec/none
+modem/mhi-soc

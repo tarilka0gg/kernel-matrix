@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (open nouveau driver), embedded controller: Toshiba, no cellular modem.
+# score=4480 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/nouveau
+platform/desktop
+ec/toshiba
+modem/none

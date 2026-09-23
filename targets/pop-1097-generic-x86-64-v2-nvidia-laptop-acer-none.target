@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (proprietary driver), embedded controller: Acer, no cellular modem.
+# score=16000 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/nvidia
+platform/laptop
+ec/acer
+modem/none

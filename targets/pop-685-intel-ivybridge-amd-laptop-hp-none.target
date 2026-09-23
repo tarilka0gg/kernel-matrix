@@ -1,0 +1,7 @@
+# Laptop on Intel Core 3 gen (Ivy Bridge), AMD (iGPU/APU or discrete, amdgpu), embedded controller: HP, no cellular modem.
+# score=25600 (popularity priority within top-11000)
+cpu/intel-ivybridge
+gpu/amd
+platform/laptop
+ec/hp
+modem/none

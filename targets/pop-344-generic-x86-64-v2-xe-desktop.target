@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v2 CPU (broad compatibility), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=32 (popularity priority within top-999999)
+cpu/generic-x86-64-v2
+gpu/xe
+platform/desktop
+ec/all
+modem/all

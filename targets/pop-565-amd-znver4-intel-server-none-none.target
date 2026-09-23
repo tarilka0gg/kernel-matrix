@@ -1,0 +1,7 @@
+# Server on AMD Ryzen 7000/8000 (Zen 4), integrated Intel (i915), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=29160 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/intel
+platform/server
+ec/none
+modem/none

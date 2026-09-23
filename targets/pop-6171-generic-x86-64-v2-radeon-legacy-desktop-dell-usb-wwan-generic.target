@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v2 CPU (broad compatibility), older AMD/ATI cards pre-GCN (radeon), embedded controller: Dell, with a USB WWAN modem.
+# score=384 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/radeon-legacy
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

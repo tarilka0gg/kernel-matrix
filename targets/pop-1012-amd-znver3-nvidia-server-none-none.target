@@ -1,0 +1,7 @@
+# Server on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=17280 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nvidia
+platform/server
+ec/none
+modem/none

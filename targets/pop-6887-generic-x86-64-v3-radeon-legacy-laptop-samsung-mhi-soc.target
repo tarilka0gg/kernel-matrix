@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), older AMD/ATI cards pre-GCN (radeon), embedded controller: Samsung, with a PCIe/SoC modem (Snapdragon X-like).
+# score=80 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/radeon-legacy
+platform/laptop
+ec/samsung
+modem/mhi-soc

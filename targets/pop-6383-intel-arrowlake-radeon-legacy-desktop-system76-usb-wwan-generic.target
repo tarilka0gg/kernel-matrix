@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), older AMD/ATI cards pre-GCN (radeon), embedded controller: System76, with a USB WWAN modem.
+# score=288 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/radeon-legacy
+platform/desktop
+ec/system76
+modem/usb-wwan-generic

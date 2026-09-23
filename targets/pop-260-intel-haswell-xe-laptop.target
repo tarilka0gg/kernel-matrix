@@ -1,0 +1,7 @@
+# Laptop on Intel Core 4-5 gen (Haswell/Broadwell), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=60 (popularity priority within top-999999)
+cpu/intel-haswell
+gpu/xe
+platform/laptop
+ec/all
+modem/all

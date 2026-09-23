@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver, embedded controller: Dell, with a USB WWAN modem.
+# score=2880 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/none
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

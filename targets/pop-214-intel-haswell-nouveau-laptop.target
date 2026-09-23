@@ -1,0 +1,7 @@
+# Laptop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=60 (popularity priority within top-999999)
+cpu/intel-haswell
+gpu/nouveau
+platform/laptop
+ec/all
+modem/all

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12 gen (Alder Lake), integrated Intel (i915), embedded controller: ASUS, with a USB WWAN modem.
+# score=13230 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/intel
+platform/laptop
+ec/asus
+modem/usb-wwan-generic

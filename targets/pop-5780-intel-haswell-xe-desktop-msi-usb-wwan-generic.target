@@ -1,0 +1,7 @@
+# Desktop on Intel Core 4-5 gen (Haswell/Broadwell), Intel Arc/Battlemage+ (new Xe driver), embedded controller: MSI, with a USB WWAN modem.
+# score=576 (popularity priority within top-11000)
+cpu/intel-haswell
+gpu/xe
+platform/desktop
+ec/msi
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Handheld on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=60 (popularity priority within top-999999)
+cpu/intel-raptorlake
+gpu/none
+platform/handheld
+ec/all
+modem/all

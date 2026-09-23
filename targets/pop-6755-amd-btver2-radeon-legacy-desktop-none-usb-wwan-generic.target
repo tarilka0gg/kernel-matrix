@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=144 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/radeon-legacy
+platform/desktop
+ec/none
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver), embedded controller: Samsung, no cellular modem.
+# score=32000 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/nvidia
+platform/laptop
+ec/samsung
+modem/none

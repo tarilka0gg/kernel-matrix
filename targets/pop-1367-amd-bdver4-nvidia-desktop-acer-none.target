@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (proprietary driver), embedded controller: Acer, no cellular modem.
+# score=12800 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nvidia
+platform/desktop
+ec/acer
+modem/none

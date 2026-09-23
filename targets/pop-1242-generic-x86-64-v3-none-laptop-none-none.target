@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=14400 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/none
+platform/laptop
+ec/none
+modem/none

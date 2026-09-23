@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 3000/4000 (Zen 2), Intel Arc/Battlemage+ (new Xe driver), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=700 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/xe
+platform/laptop
+ec/asus
+modem/mhi-soc

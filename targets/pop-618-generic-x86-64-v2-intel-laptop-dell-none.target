@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), integrated Intel (i915), embedded controller: Dell, no cellular modem.
+# score=28800 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/intel
+platform/laptop
+ec/dell
+modem/none

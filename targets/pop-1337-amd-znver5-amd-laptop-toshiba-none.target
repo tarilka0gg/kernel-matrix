@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 9000 (Zen 5), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Toshiba, no cellular modem.
+# score=12800 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/amd
+platform/laptop
+ec/toshiba
+modem/none

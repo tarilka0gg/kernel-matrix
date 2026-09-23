@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), integrated Intel (i915), embedded controller: Acer, no cellular modem.
+# score=28800 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/intel
+platform/desktop
+ec/acer
+modem/none

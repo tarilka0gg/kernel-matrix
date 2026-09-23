@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (open nouveau driver), embedded controller: System76, with a USB WWAN modem.
+# score=576 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/nouveau
+platform/desktop
+ec/system76
+modem/usb-wwan-generic

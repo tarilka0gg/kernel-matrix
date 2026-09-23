@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (open nouveau driver), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=1152 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/nouveau
+platform/desktop
+ec/none
+modem/usb-wwan-generic

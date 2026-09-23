@@ -1,0 +1,7 @@
+# Laptop on Intel Core 11 gen desktop (Rocket Lake), older AMD/ATI cards pre-GCN (radeon), embedded controller: Samsung, with a USB WWAN modem.
+# score=240 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/radeon-legacy
+platform/laptop
+ec/samsung
+modem/usb-wwan-generic

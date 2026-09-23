@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (open nouveau driver), embedded controller: Acer, with a USB WWAN modem.
+# score=1200 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/nouveau
+platform/laptop
+ec/acer
+modem/usb-wwan-generic

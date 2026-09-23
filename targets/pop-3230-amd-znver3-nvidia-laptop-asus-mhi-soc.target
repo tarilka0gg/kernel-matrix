@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=3360 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nvidia
+platform/laptop
+ec/asus
+modem/mhi-soc

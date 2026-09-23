@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=640 (popularity priority within top-999999)
+cpu/intel-raptorlake
+gpu/amd
+platform/desktop
+ec/all
+modem/all

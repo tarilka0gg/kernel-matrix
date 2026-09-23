@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver, embedded controller: Samsung, no cellular modem.
+# score=2400 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/none
+platform/laptop
+ec/samsung
+modem/none

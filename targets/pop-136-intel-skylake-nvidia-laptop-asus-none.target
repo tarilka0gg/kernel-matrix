@@ -1,0 +1,7 @@
+# Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (proprietary driver), embedded controller: ASUS, no cellular modem.
+# score=67200 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/nvidia
+platform/laptop
+ec/asus
+modem/none

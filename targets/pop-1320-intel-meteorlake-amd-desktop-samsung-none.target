@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Samsung, no cellular modem.
+# score=12800 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/amd
+platform/desktop
+ec/samsung
+modem/none

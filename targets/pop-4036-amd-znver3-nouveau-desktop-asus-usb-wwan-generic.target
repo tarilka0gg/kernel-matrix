@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=2016 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

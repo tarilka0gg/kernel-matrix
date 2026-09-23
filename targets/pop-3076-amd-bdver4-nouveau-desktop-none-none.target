@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/nouveau
+platform/desktop
+ec/none
+modem/none

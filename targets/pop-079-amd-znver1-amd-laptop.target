@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=240 (popularity priority within top-999999)
+cpu/amd-znver1
+gpu/amd
+platform/laptop
+ec/all
+modem/all

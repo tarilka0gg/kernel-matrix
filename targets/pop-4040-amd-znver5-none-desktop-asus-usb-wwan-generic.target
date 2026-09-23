@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), no separate GPU driver, embedded controller: ASUS, with a USB WWAN modem.
+# score=2016 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/none
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

@@ -1,0 +1,305 @@
+rank	name	score	description
+1	pop-001-intel-raptorlake-intel-laptop	900	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+2	pop-002-amd-znver4-intel-laptop	810	Laptop on AMD Ryzen 7000/8000 (Zen 4), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+3	pop-003-intel-raptorlake-nvidia-laptop	800	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+4	pop-004-intel-raptorlake-amd-laptop	800	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+5	pop-005-intel-raptorlake-intel-desktop	720	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+6	pop-006-amd-znver4-nvidia-laptop	720	Laptop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+7	pop-007-amd-znver4-amd-laptop	720	Laptop on AMD Ryzen 7000/8000 (Zen 4), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+8	pop-008-amd-znver4-intel-desktop	648	Desktop on AMD Ryzen 7000/8000 (Zen 4), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+9	pop-009-intel-raptorlake-nvidia-desktop	640	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+10	pop-010-intel-raptorlake-amd-desktop	640	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+11	pop-011-intel-alderlake-intel-laptop	630	Laptop on Intel Core 12 gen (Alder Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+12	pop-012-amd-znver4-nvidia-desktop	576	Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+13	pop-013-amd-znver4-amd-desktop	576	Desktop on AMD Ryzen 7000/8000 (Zen 4), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+14	pop-014-intel-alderlake-nvidia-laptop	560	Laptop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+15	pop-015-intel-alderlake-amd-laptop	560	Laptop on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+16	pop-016-amd-znver3-intel-laptop	540	Laptop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+17	pop-017-intel-skylake-intel-laptop	540	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+18	pop-018-intel-alderlake-intel-desktop	504	Desktop on Intel Core 12 gen (Alder Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+19	pop-019-amd-znver3-nvidia-laptop	480	Laptop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+20	pop-020-amd-znver3-amd-laptop	480	Laptop on AMD Ryzen 5000 (Zen 3), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+21	pop-021-intel-skylake-nvidia-laptop	480	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+22	pop-022-intel-skylake-amd-laptop	480	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+23	pop-023-amd-znver2-intel-laptop	450	Laptop on AMD Ryzen 3000/4000 (Zen 2), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+24	pop-024-intel-meteorlake-intel-laptop	450	Laptop on Intel Core Ultra 1 (Meteor Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+25	pop-025-intel-alderlake-nvidia-desktop	448	Desktop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+26	pop-026-intel-alderlake-amd-desktop	448	Desktop on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+27	pop-027-amd-znver3-intel-desktop	432	Desktop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+28	pop-028-intel-skylake-intel-desktop	432	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+29	pop-029-amd-znver2-nvidia-laptop	400	Laptop on AMD Ryzen 3000/4000 (Zen 2), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+30	pop-030-amd-znver2-amd-laptop	400	Laptop on AMD Ryzen 3000/4000 (Zen 2), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+31	pop-031-intel-meteorlake-nvidia-laptop	400	Laptop on Intel Core Ultra 1 (Meteor Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+32	pop-032-intel-meteorlake-amd-laptop	400	Laptop on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+33	pop-033-amd-znver3-nvidia-desktop	384	Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+34	pop-034-amd-znver3-amd-desktop	384	Desktop on AMD Ryzen 5000 (Zen 3), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+35	pop-035-intel-skylake-nvidia-desktop	384	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+36	pop-036-intel-skylake-amd-desktop	384	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+37	pop-037-amd-znver2-intel-desktop	360	Desktop on AMD Ryzen 3000/4000 (Zen 2), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+38	pop-038-intel-meteorlake-intel-desktop	360	Desktop on Intel Core Ultra 1 (Meteor Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+39	pop-039-intel-icelake-intel-laptop	360	Laptop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+40	pop-040-amd-znver5-intel-laptop	360	Laptop on AMD Ryzen 9000 (Zen 5), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+41	pop-041-intel-rocketlake-intel-laptop	360	Laptop on Intel Core 11 gen desktop (Rocket Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+42	pop-042-intel-arrowlake-intel-laptop	360	Laptop on Intel Core Ultra 2 (Arrow Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+43	pop-043-generic-x86-64-v3-intel-laptop	360	Laptop on any x86-64-v3 CPU (safe fallback), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+44	pop-044-amd-znver2-nvidia-desktop	320	Desktop on AMD Ryzen 3000/4000 (Zen 2), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+45	pop-045-amd-znver2-amd-desktop	320	Desktop on AMD Ryzen 3000/4000 (Zen 2), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+46	pop-046-intel-meteorlake-nvidia-desktop	320	Desktop on Intel Core Ultra 1 (Meteor Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+47	pop-047-intel-meteorlake-amd-desktop	320	Desktop on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+48	pop-048-intel-icelake-nvidia-laptop	320	Laptop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+49	pop-049-intel-icelake-amd-laptop	320	Laptop on Intel Core 10 gen mobile (Ice Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+50	pop-050-amd-znver5-nvidia-laptop	320	Laptop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+51	pop-051-amd-znver5-amd-laptop	320	Laptop on AMD Ryzen 9000 (Zen 5), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+52	pop-052-intel-rocketlake-nvidia-laptop	320	Laptop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+53	pop-053-intel-rocketlake-amd-laptop	320	Laptop on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+54	pop-054-intel-arrowlake-nvidia-laptop	320	Laptop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+55	pop-055-intel-arrowlake-amd-laptop	320	Laptop on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+56	pop-056-generic-x86-64-v3-nvidia-laptop	320	Laptop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+57	pop-057-generic-x86-64-v3-amd-laptop	320	Laptop on any x86-64-v3 CPU (safe fallback), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+58	pop-058-intel-raptorlake-none-laptop	300	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+59	pop-059-intel-icelake-intel-desktop	288	Desktop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+60	pop-060-amd-znver5-intel-desktop	288	Desktop on AMD Ryzen 9000 (Zen 5), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+61	pop-061-intel-rocketlake-intel-desktop	288	Desktop on Intel Core 11 gen desktop (Rocket Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+62	pop-062-intel-arrowlake-intel-desktop	288	Desktop on Intel Core Ultra 2 (Arrow Lake), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+63	pop-063-generic-x86-64-v3-intel-desktop	288	Desktop on any x86-64-v3 CPU (safe fallback), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+64	pop-064-amd-znver4-none-laptop	270	Laptop on AMD Ryzen 7000/8000 (Zen 4), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+65	pop-065-amd-znver1-intel-laptop	270	Laptop on AMD Ryzen 1000/2000 (Zen 1), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+66	pop-066-intel-haswell-intel-laptop	270	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+67	pop-067-intel-icelake-nvidia-desktop	256	Desktop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+68	pop-068-intel-icelake-amd-desktop	256	Desktop on Intel Core 10 gen mobile (Ice Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+69	pop-069-amd-znver5-nvidia-desktop	256	Desktop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+70	pop-070-amd-znver5-amd-desktop	256	Desktop on AMD Ryzen 9000 (Zen 5), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+71	pop-071-intel-rocketlake-nvidia-desktop	256	Desktop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+72	pop-072-intel-rocketlake-amd-desktop	256	Desktop on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+73	pop-073-intel-arrowlake-nvidia-desktop	256	Desktop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+74	pop-074-intel-arrowlake-amd-desktop	256	Desktop on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+75	pop-075-generic-x86-64-v3-nvidia-desktop	256	Desktop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+76	pop-076-generic-x86-64-v3-amd-desktop	256	Desktop on any x86-64-v3 CPU (safe fallback), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+77	pop-077-intel-raptorlake-none-desktop	240	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+78	pop-078-amd-znver1-nvidia-laptop	240	Laptop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+79	pop-079-amd-znver1-amd-laptop	240	Laptop on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+80	pop-080-intel-haswell-nvidia-laptop	240	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+81	pop-081-intel-haswell-amd-laptop	240	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+82	pop-082-amd-znver4-none-desktop	216	Desktop on AMD Ryzen 7000/8000 (Zen 4), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+83	pop-083-amd-znver1-intel-desktop	216	Desktop on AMD Ryzen 1000/2000 (Zen 1), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+84	pop-084-intel-haswell-intel-desktop	216	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+85	pop-085-intel-alderlake-none-laptop	210	Laptop on Intel Core 12 gen (Alder Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+86	pop-086-intel-raptorlake-xe-laptop	200	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+87	pop-087-intel-raptorlake-nouveau-laptop	200	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+88	pop-088-amd-znver1-nvidia-desktop	192	Desktop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+89	pop-089-amd-znver1-amd-desktop	192	Desktop on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+90	pop-090-intel-haswell-nvidia-desktop	192	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+91	pop-091-intel-haswell-amd-desktop	192	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+92	pop-092-amd-znver4-xe-laptop	180	Laptop on AMD Ryzen 7000/8000 (Zen 4), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+93	pop-093-amd-znver4-nouveau-laptop	180	Laptop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+94	pop-094-amd-znver3-none-laptop	180	Laptop on AMD Ryzen 5000 (Zen 3), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+95	pop-095-intel-skylake-none-laptop	180	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+96	pop-096-intel-ivybridge-intel-laptop	180	Laptop on Intel Core 3 gen (Ivy Bridge), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+97	pop-097-intel-sandybridge-intel-laptop	180	Laptop on Intel Core 2 gen (Sandy Bridge), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+98	pop-098-amd-bdver4-intel-laptop	180	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+99	pop-099-generic-x86-64-v2-intel-laptop	180	Laptop on any x86-64-v2 CPU (broad compatibility), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+100	pop-100-intel-alderlake-none-desktop	168	Desktop on Intel Core 12 gen (Alder Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+101	pop-101-intel-raptorlake-amd-handheld	160	Handheld on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+102	pop-102-intel-raptorlake-xe-desktop	160	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+103	pop-103-intel-raptorlake-nouveau-desktop	160	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+104	pop-104-intel-ivybridge-nvidia-laptop	160	Laptop on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+105	pop-105-intel-ivybridge-amd-laptop	160	Laptop on Intel Core 3 gen (Ivy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+106	pop-106-intel-sandybridge-nvidia-laptop	160	Laptop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+107	pop-107-intel-sandybridge-amd-laptop	160	Laptop on Intel Core 2 gen (Sandy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+108	pop-108-amd-bdver4-nvidia-laptop	160	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+109	pop-109-amd-bdver4-amd-laptop	160	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+110	pop-110-generic-x86-64-v2-nvidia-laptop	160	Laptop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+111	pop-111-generic-x86-64-v2-amd-laptop	160	Laptop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+112	pop-112-amd-znver2-none-laptop	150	Laptop on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+113	pop-113-intel-meteorlake-none-laptop	150	Laptop on Intel Core Ultra 1 (Meteor Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+114	pop-114-amd-znver4-amd-handheld	144	Handheld on AMD Ryzen 7000/8000 (Zen 4), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+115	pop-115-amd-znver4-xe-desktop	144	Desktop on AMD Ryzen 7000/8000 (Zen 4), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+116	pop-116-amd-znver4-nouveau-desktop	144	Desktop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+117	pop-117-amd-znver3-none-desktop	144	Desktop on AMD Ryzen 5000 (Zen 3), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+118	pop-118-intel-skylake-none-desktop	144	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+119	pop-119-intel-ivybridge-intel-desktop	144	Desktop on Intel Core 3 gen (Ivy Bridge), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+120	pop-120-intel-sandybridge-intel-desktop	144	Desktop on Intel Core 2 gen (Sandy Bridge), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+121	pop-121-amd-bdver4-intel-desktop	144	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+122	pop-122-generic-x86-64-v2-intel-desktop	144	Desktop on any x86-64-v2 CPU (broad compatibility), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+123	pop-123-intel-alderlake-xe-laptop	140	Laptop on Intel Core 12 gen (Alder Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+124	pop-124-intel-alderlake-nouveau-laptop	140	Laptop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+125	pop-125-intel-ivybridge-nvidia-desktop	128	Desktop on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+126	pop-126-intel-ivybridge-amd-desktop	128	Desktop on Intel Core 3 gen (Ivy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+127	pop-127-intel-sandybridge-nvidia-desktop	128	Desktop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+128	pop-128-intel-sandybridge-amd-desktop	128	Desktop on Intel Core 2 gen (Sandy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+129	pop-129-amd-bdver4-nvidia-desktop	128	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+130	pop-130-amd-bdver4-amd-desktop	128	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+131	pop-131-generic-x86-64-v2-nvidia-desktop	128	Desktop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+132	pop-132-generic-x86-64-v2-amd-desktop	128	Desktop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+133	pop-133-amd-znver3-xe-laptop	120	Laptop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+134	pop-134-amd-znver3-nouveau-laptop	120	Laptop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+135	pop-135-intel-skylake-xe-laptop	120	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+136	pop-136-intel-skylake-nouveau-laptop	120	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+137	pop-137-amd-znver2-none-desktop	120	Desktop on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+138	pop-138-intel-meteorlake-none-desktop	120	Desktop on Intel Core Ultra 1 (Meteor Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+139	pop-139-intel-icelake-none-laptop	120	Laptop on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+140	pop-140-amd-znver5-none-laptop	120	Laptop on AMD Ryzen 9000 (Zen 5), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+141	pop-141-intel-rocketlake-none-laptop	120	Laptop on Intel Core 11 gen desktop (Rocket Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+142	pop-142-intel-arrowlake-none-laptop	120	Laptop on Intel Core Ultra 2 (Arrow Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+143	pop-143-generic-x86-64-v3-none-laptop	120	Laptop on any x86-64-v3 CPU (safe fallback), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+144	pop-144-intel-alderlake-amd-handheld	112	Handheld on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+145	pop-145-intel-alderlake-xe-desktop	112	Desktop on Intel Core 12 gen (Alder Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+146	pop-146-intel-alderlake-nouveau-desktop	112	Desktop on Intel Core 12 gen (Alder Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+147	pop-147-intel-raptorlake-radeon-legacy-laptop	100	Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+148	pop-148-amd-znver2-xe-laptop	100	Laptop on AMD Ryzen 3000/4000 (Zen 2), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+149	pop-149-amd-znver2-nouveau-laptop	100	Laptop on AMD Ryzen 3000/4000 (Zen 2), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+150	pop-150-intel-meteorlake-xe-laptop	100	Laptop on Intel Core Ultra 1 (Meteor Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+151	pop-151-intel-meteorlake-nouveau-laptop	100	Laptop on Intel Core Ultra 1 (Meteor Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+152	pop-152-amd-znver3-amd-handheld	96	Handheld on AMD Ryzen 5000 (Zen 3), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+153	pop-153-amd-znver3-xe-desktop	96	Desktop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+154	pop-154-amd-znver3-nouveau-desktop	96	Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+155	pop-155-intel-skylake-amd-handheld	96	Handheld on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+156	pop-156-intel-skylake-xe-desktop	96	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+157	pop-157-intel-skylake-nouveau-desktop	96	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+158	pop-158-intel-icelake-none-desktop	96	Desktop on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+159	pop-159-amd-znver5-none-desktop	96	Desktop on AMD Ryzen 9000 (Zen 5), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+160	pop-160-intel-rocketlake-none-desktop	96	Desktop on Intel Core 11 gen desktop (Rocket Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+161	pop-161-intel-arrowlake-none-desktop	96	Desktop on Intel Core Ultra 2 (Arrow Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+162	pop-162-generic-x86-64-v3-none-desktop	96	Desktop on any x86-64-v3 CPU (safe fallback), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+163	pop-163-amd-znver4-radeon-legacy-laptop	90	Laptop on AMD Ryzen 7000/8000 (Zen 4), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+164	pop-164-amd-znver1-none-laptop	90	Laptop on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+165	pop-165-intel-haswell-none-laptop	90	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+166	pop-166-amd-btver2-intel-laptop	90	Laptop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+167	pop-167-intel-raptorlake-radeon-legacy-desktop	80	Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+168	pop-168-amd-znver2-amd-handheld	80	Handheld on AMD Ryzen 3000/4000 (Zen 2), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+169	pop-169-amd-znver2-xe-desktop	80	Desktop on AMD Ryzen 3000/4000 (Zen 2), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+170	pop-170-amd-znver2-nouveau-desktop	80	Desktop on AMD Ryzen 3000/4000 (Zen 2), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+171	pop-171-intel-meteorlake-amd-handheld	80	Handheld on Intel Core Ultra 1 (Meteor Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+172	pop-172-intel-meteorlake-xe-desktop	80	Desktop on Intel Core Ultra 1 (Meteor Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+173	pop-173-intel-meteorlake-nouveau-desktop	80	Desktop on Intel Core Ultra 1 (Meteor Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+174	pop-174-intel-icelake-xe-laptop	80	Laptop on Intel Core 10 gen mobile (Ice Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+175	pop-175-intel-icelake-nouveau-laptop	80	Laptop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+176	pop-176-amd-znver5-xe-laptop	80	Laptop on AMD Ryzen 9000 (Zen 5), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+177	pop-177-amd-znver5-nouveau-laptop	80	Laptop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+178	pop-178-intel-rocketlake-xe-laptop	80	Laptop on Intel Core 11 gen desktop (Rocket Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+179	pop-179-intel-rocketlake-nouveau-laptop	80	Laptop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+180	pop-180-intel-arrowlake-xe-laptop	80	Laptop on Intel Core Ultra 2 (Arrow Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+181	pop-181-intel-arrowlake-nouveau-laptop	80	Laptop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+182	pop-182-amd-btver2-nvidia-laptop	80	Laptop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+183	pop-183-amd-btver2-amd-laptop	80	Laptop on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+184	pop-184-generic-x86-64-v3-xe-laptop	80	Laptop on any x86-64-v3 CPU (safe fallback), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+185	pop-185-generic-x86-64-v3-nouveau-laptop	80	Laptop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+186	pop-186-amd-znver4-radeon-legacy-desktop	72	Desktop on AMD Ryzen 7000/8000 (Zen 4), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+187	pop-187-amd-znver1-none-desktop	72	Desktop on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+188	pop-188-intel-haswell-none-desktop	72	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+189	pop-189-amd-btver2-intel-desktop	72	Desktop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+190	pop-190-intel-alderlake-radeon-legacy-laptop	70	Laptop on Intel Core 12 gen (Alder Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+191	pop-191-intel-icelake-amd-handheld	64	Handheld on Intel Core 10 gen mobile (Ice Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+192	pop-192-intel-icelake-xe-desktop	64	Desktop on Intel Core 10 gen mobile (Ice Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+193	pop-193-intel-icelake-nouveau-desktop	64	Desktop on Intel Core 10 gen mobile (Ice Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+194	pop-194-amd-znver5-amd-handheld	64	Handheld on AMD Ryzen 9000 (Zen 5), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+195	pop-195-amd-znver5-xe-desktop	64	Desktop on AMD Ryzen 9000 (Zen 5), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+196	pop-196-amd-znver5-nouveau-desktop	64	Desktop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+197	pop-197-intel-rocketlake-amd-handheld	64	Handheld on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+198	pop-198-intel-rocketlake-xe-desktop	64	Desktop on Intel Core 11 gen desktop (Rocket Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+199	pop-199-intel-rocketlake-nouveau-desktop	64	Desktop on Intel Core 11 gen desktop (Rocket Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+200	pop-200-intel-arrowlake-amd-handheld	64	Handheld on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+201	pop-201-intel-arrowlake-xe-desktop	64	Desktop on Intel Core Ultra 2 (Arrow Lake), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+202	pop-202-intel-arrowlake-nouveau-desktop	64	Desktop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+203	pop-203-amd-btver2-nvidia-desktop	64	Desktop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+204	pop-204-amd-btver2-amd-desktop	64	Desktop on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+205	pop-205-generic-x86-64-v3-amd-handheld	64	Handheld on any x86-64-v3 CPU (safe fallback), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+206	pop-206-generic-x86-64-v3-xe-desktop	64	Desktop on any x86-64-v3 CPU (safe fallback), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+207	pop-207-generic-x86-64-v3-nouveau-desktop	64	Desktop on any x86-64-v3 CPU (safe fallback), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+208	pop-208-intel-raptorlake-none-handheld	60	Handheld on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+209	pop-209-amd-znver3-radeon-legacy-laptop	60	Laptop on AMD Ryzen 5000 (Zen 3), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+210	pop-210-intel-skylake-radeon-legacy-laptop	60	Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+211	pop-211-amd-znver1-xe-laptop	60	Laptop on AMD Ryzen 1000/2000 (Zen 1), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+212	pop-212-amd-znver1-nouveau-laptop	60	Laptop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+213	pop-213-intel-haswell-xe-laptop	60	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+214	pop-214-intel-haswell-nouveau-laptop	60	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+215	pop-215-intel-ivybridge-none-laptop	60	Laptop on Intel Core 3 gen (Ivy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+216	pop-216-intel-sandybridge-none-laptop	60	Laptop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+217	pop-217-amd-bdver4-none-laptop	60	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+218	pop-218-generic-x86-64-v2-none-laptop	60	Laptop on any x86-64-v2 CPU (broad compatibility), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+219	pop-219-intel-alderlake-radeon-legacy-desktop	56	Desktop on Intel Core 12 gen (Alder Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+220	pop-220-amd-znver4-none-handheld	54	Handheld on AMD Ryzen 7000/8000 (Zen 4), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+221	pop-221-amd-znver2-radeon-legacy-laptop	50	Laptop on AMD Ryzen 3000/4000 (Zen 2), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+222	pop-222-intel-meteorlake-radeon-legacy-laptop	50	Laptop on Intel Core Ultra 1 (Meteor Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+223	pop-223-amd-znver3-radeon-legacy-desktop	48	Desktop on AMD Ryzen 5000 (Zen 3), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+224	pop-224-intel-skylake-radeon-legacy-desktop	48	Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+225	pop-225-amd-znver1-amd-handheld	48	Handheld on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+226	pop-226-amd-znver1-xe-desktop	48	Desktop on AMD Ryzen 1000/2000 (Zen 1), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+227	pop-227-amd-znver1-nouveau-desktop	48	Desktop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+228	pop-228-intel-haswell-amd-handheld	48	Handheld on Intel Core 4-5 gen (Haswell/Broadwell), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+229	pop-229-intel-haswell-xe-desktop	48	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+230	pop-230-intel-haswell-nouveau-desktop	48	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+231	pop-231-intel-ivybridge-none-desktop	48	Desktop on Intel Core 3 gen (Ivy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+232	pop-232-intel-sandybridge-none-desktop	48	Desktop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+233	pop-233-amd-bdver4-none-desktop	48	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+234	pop-234-generic-x86-64-v2-none-desktop	48	Desktop on any x86-64-v2 CPU (broad compatibility), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+235	pop-235-intel-alderlake-none-handheld	42	Handheld on Intel Core 12 gen (Alder Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+236	pop-236-amd-znver2-radeon-legacy-desktop	40	Desktop on AMD Ryzen 3000/4000 (Zen 2), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+237	pop-237-intel-meteorlake-radeon-legacy-desktop	40	Desktop on Intel Core Ultra 1 (Meteor Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+238	pop-238-intel-icelake-radeon-legacy-laptop	40	Laptop on Intel Core 10 gen mobile (Ice Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+239	pop-239-amd-znver5-radeon-legacy-laptop	40	Laptop on AMD Ryzen 9000 (Zen 5), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+240	pop-240-intel-rocketlake-radeon-legacy-laptop	40	Laptop on Intel Core 11 gen desktop (Rocket Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+241	pop-241-intel-arrowlake-radeon-legacy-laptop	40	Laptop on Intel Core Ultra 2 (Arrow Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+242	pop-242-intel-ivybridge-xe-laptop	40	Laptop on Intel Core 3 gen (Ivy Bridge), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+243	pop-243-intel-ivybridge-nouveau-laptop	40	Laptop on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+244	pop-244-intel-sandybridge-xe-laptop	40	Laptop on Intel Core 2 gen (Sandy Bridge), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+245	pop-245-intel-sandybridge-nouveau-laptop	40	Laptop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+246	pop-246-amd-bdver4-xe-laptop	40	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+247	pop-247-amd-bdver4-nouveau-laptop	40	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+248	pop-248-generic-x86-64-v3-radeon-legacy-laptop	40	Laptop on any x86-64-v3 CPU (safe fallback), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+249	pop-249-generic-x86-64-v2-xe-laptop	40	Laptop on any x86-64-v2 CPU (broad compatibility), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+250	pop-250-generic-x86-64-v2-nouveau-laptop	40	Laptop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+251	pop-251-amd-znver3-none-handheld	36	Handheld on AMD Ryzen 5000 (Zen 3), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+252	pop-252-intel-skylake-none-handheld	36	Handheld on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+253	pop-253-intel-icelake-radeon-legacy-desktop	32	Desktop on Intel Core 10 gen mobile (Ice Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+254	pop-254-amd-znver5-radeon-legacy-desktop	32	Desktop on AMD Ryzen 9000 (Zen 5), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+255	pop-255-intel-rocketlake-radeon-legacy-desktop	32	Desktop on Intel Core 11 gen desktop (Rocket Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+256	pop-256-intel-arrowlake-radeon-legacy-desktop	32	Desktop on Intel Core Ultra 2 (Arrow Lake), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+257	pop-257-intel-ivybridge-amd-handheld	32	Handheld on Intel Core 3 gen (Ivy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+258	pop-258-intel-ivybridge-xe-desktop	32	Desktop on Intel Core 3 gen (Ivy Bridge), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+259	pop-259-intel-ivybridge-nouveau-desktop	32	Desktop on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+260	pop-260-intel-sandybridge-amd-handheld	32	Handheld on Intel Core 2 gen (Sandy Bridge), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+261	pop-261-intel-sandybridge-xe-desktop	32	Desktop on Intel Core 2 gen (Sandy Bridge), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+262	pop-262-intel-sandybridge-nouveau-desktop	32	Desktop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+263	pop-263-amd-bdver4-amd-handheld	32	Handheld on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+264	pop-264-amd-bdver4-xe-desktop	32	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+265	pop-265-amd-bdver4-nouveau-desktop	32	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+266	pop-266-generic-x86-64-v3-radeon-legacy-desktop	32	Desktop on any x86-64-v3 CPU (safe fallback), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+267	pop-267-generic-x86-64-v2-amd-handheld	32	Handheld on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+268	pop-268-generic-x86-64-v2-xe-desktop	32	Desktop on any x86-64-v2 CPU (broad compatibility), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+269	pop-269-generic-x86-64-v2-nouveau-desktop	32	Desktop on any x86-64-v2 CPU (broad compatibility), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+270	pop-270-amd-znver2-none-handheld	30	Handheld on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+271	pop-271-intel-meteorlake-none-handheld	30	Handheld on Intel Core Ultra 1 (Meteor Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+272	pop-272-amd-znver1-radeon-legacy-laptop	30	Laptop on AMD Ryzen 1000/2000 (Zen 1), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+273	pop-273-intel-haswell-radeon-legacy-laptop	30	Laptop on Intel Core 4-5 gen (Haswell/Broadwell), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+274	pop-274-amd-btver2-none-laptop	30	Laptop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+275	pop-275-intel-icelake-none-handheld	24	Handheld on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+276	pop-276-amd-znver5-none-handheld	24	Handheld on AMD Ryzen 9000 (Zen 5), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+277	pop-277-intel-rocketlake-none-handheld	24	Handheld on Intel Core 11 gen desktop (Rocket Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+278	pop-278-intel-arrowlake-none-handheld	24	Handheld on Intel Core Ultra 2 (Arrow Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+279	pop-279-amd-znver1-radeon-legacy-desktop	24	Desktop on AMD Ryzen 1000/2000 (Zen 1), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+280	pop-280-intel-haswell-radeon-legacy-desktop	24	Desktop on Intel Core 4-5 gen (Haswell/Broadwell), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+281	pop-281-amd-btver2-none-desktop	24	Desktop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+282	pop-282-generic-x86-64-v3-none-handheld	24	Handheld on any x86-64-v3 CPU (safe fallback), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+283	pop-283-intel-ivybridge-radeon-legacy-laptop	20	Laptop on Intel Core 3 gen (Ivy Bridge), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+284	pop-284-intel-sandybridge-radeon-legacy-laptop	20	Laptop on Intel Core 2 gen (Sandy Bridge), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+285	pop-285-amd-bdver4-radeon-legacy-laptop	20	Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+286	pop-286-amd-btver2-xe-laptop	20	Laptop on AMD Jaguar (btver2, low-voltage APUs), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+287	pop-287-amd-btver2-nouveau-laptop	20	Laptop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+288	pop-288-generic-x86-64-v2-radeon-legacy-laptop	20	Laptop on any x86-64-v2 CPU (broad compatibility), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+289	pop-289-amd-znver1-none-handheld	18	Handheld on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+290	pop-290-intel-haswell-none-handheld	18	Handheld on Intel Core 4-5 gen (Haswell/Broadwell), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+291	pop-291-intel-ivybridge-radeon-legacy-desktop	16	Desktop on Intel Core 3 gen (Ivy Bridge), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+292	pop-292-intel-sandybridge-radeon-legacy-desktop	16	Desktop on Intel Core 2 gen (Sandy Bridge), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+293	pop-293-amd-bdver4-radeon-legacy-desktop	16	Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+294	pop-294-amd-btver2-amd-handheld	16	Handheld on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+295	pop-295-amd-btver2-xe-desktop	16	Desktop on AMD Jaguar (btver2, low-voltage APUs), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+296	pop-296-amd-btver2-nouveau-desktop	16	Desktop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+297	pop-297-generic-x86-64-v2-radeon-legacy-desktop	16	Desktop on any x86-64-v2 CPU (broad compatibility), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+298	pop-298-intel-ivybridge-none-handheld	12	Handheld on Intel Core 3 gen (Ivy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+299	pop-299-intel-sandybridge-none-handheld	12	Handheld on Intel Core 2 gen (Sandy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+300	pop-300-amd-bdver4-none-handheld	12	Handheld on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+301	pop-301-generic-x86-64-v2-none-handheld	12	Handheld on any x86-64-v2 CPU (broad compatibility), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+302	pop-302-amd-btver2-radeon-legacy-laptop	10	Laptop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+303	pop-303-amd-btver2-radeon-legacy-desktop	8	Desktop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+304	pop-304-amd-btver2-none-handheld	6	Handheld on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).

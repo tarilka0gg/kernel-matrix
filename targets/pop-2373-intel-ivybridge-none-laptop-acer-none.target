@@ -1,0 +1,7 @@
+# Laptop on Intel Core 3 gen (Ivy Bridge), no separate GPU driver, embedded controller: Acer, no cellular modem.
+# score=6000 (popularity priority within top-11000)
+cpu/intel-ivybridge
+gpu/none
+platform/laptop
+ec/acer
+modem/none

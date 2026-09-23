@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=8640 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/intel
+platform/desktop
+ec/none
+modem/none

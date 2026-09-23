@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, no cellular modem.
+# score=8960 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/none

@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Dell, with a PCIe/SoC modem (Snapdragon X-like).
+# score=1600 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/xe
+platform/laptop
+ec/dell
+modem/mhi-soc

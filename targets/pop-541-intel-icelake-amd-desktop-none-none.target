@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=30720 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/amd
+platform/desktop
+ec/none
+modem/none

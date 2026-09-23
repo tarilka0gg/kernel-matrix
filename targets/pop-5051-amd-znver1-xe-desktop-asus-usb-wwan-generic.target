@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 1000/2000 (Zen 1), Intel Arc/Battlemage+ (new Xe driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=1008 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/xe
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 1000/2000 (Zen 1), no separate GPU driver, embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=1296 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/none
+platform/desktop
+ec/none
+modem/usb-wwan-generic

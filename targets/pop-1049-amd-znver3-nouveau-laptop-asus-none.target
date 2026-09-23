@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, no cellular modem.
+# score=16800 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nouveau
+platform/laptop
+ec/asus
+modem/none

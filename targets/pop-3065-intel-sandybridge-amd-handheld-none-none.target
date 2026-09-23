@@ -1,0 +1,7 @@
+# Handheld on Intel Core 2 gen (Sandy Bridge), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/amd
+platform/handheld
+ec/none
+modem/none

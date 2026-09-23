@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 3000/4000 (Zen 2), discrete NVIDIA (proprietary driver), embedded controller: Samsung, no cellular modem.
+# score=12800 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/nvidia
+platform/desktop
+ec/samsung
+modem/none

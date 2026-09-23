@@ -1,0 +1,7 @@
+# Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), integrated Intel (i915), embedded controller: Samsung, with a USB WWAN modem.
+# score=3240 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/intel
+platform/laptop
+ec/samsung
+modem/usb-wwan-generic

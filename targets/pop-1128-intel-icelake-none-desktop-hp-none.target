@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver, embedded controller: HP, no cellular modem.
+# score=15360 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/none
+platform/desktop
+ec/hp
+modem/none

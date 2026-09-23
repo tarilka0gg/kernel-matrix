@@ -1,0 +1,7 @@
+# Laptop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (open nouveau driver), embedded controller: Toshiba, no cellular modem.
+# score=2400 (popularity priority within top-11000)
+cpu/intel-haswell
+gpu/nouveau
+platform/laptop
+ec/toshiba
+modem/none

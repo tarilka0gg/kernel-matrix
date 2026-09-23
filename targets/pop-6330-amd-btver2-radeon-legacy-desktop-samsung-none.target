@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon), embedded controller: Samsung, no cellular modem.
+# score=320 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/radeon-legacy
+platform/desktop
+ec/samsung
+modem/none

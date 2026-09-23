@@ -1,0 +1,7 @@
+# Handheld on Intel Core Ultra 2 (Arrow Lake), no separate GPU driver, embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=168 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/none
+platform/handheld
+ec/asus
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Handheld on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=2880 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/none
+platform/handheld
+ec/none
+modem/none

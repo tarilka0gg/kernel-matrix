@@ -1,0 +1,7 @@
+# Server on AMD Ryzen 1000/2000 (Zen 1), integrated Intel (i915) (all vendor EC/WMI and modem drivers included as modules).
+# score=81 (popularity priority within top-999999)
+cpu/amd-znver1
+gpu/intel
+platform/server
+ec/all
+modem/all

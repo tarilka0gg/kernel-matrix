@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (proprietary driver), embedded controller: ASUS, no cellular modem.
+# score=11200 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/nvidia
+platform/laptop
+ec/asus
+modem/none

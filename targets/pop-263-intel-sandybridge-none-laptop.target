@@ -1,0 +1,7 @@
+# Laptop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=60 (popularity priority within top-999999)
+cpu/intel-sandybridge
+gpu/none
+platform/laptop
+ec/all
+modem/all

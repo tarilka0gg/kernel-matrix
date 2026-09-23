@@ -1,0 +1,7 @@
+# Server on any x86-64-v3 CPU (safe fallback), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=24 (popularity priority within top-999999)
+cpu/generic-x86-64-v3
+gpu/xe
+platform/server
+ec/all
+modem/all

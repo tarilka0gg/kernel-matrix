@@ -1,0 +1,7 @@
+# Laptop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), AMD (iGPU/APU or discrete, amdgpu), embedded controller: MSI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=640 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/amd
+platform/laptop
+ec/msi
+modem/mhi-soc

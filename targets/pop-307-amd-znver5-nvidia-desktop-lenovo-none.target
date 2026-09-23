@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 9000 (Zen 5), discrete NVIDIA (proprietary driver), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=46080 (popularity priority within top-11000)
+cpu/amd-znver5
+gpu/nvidia
+platform/desktop
+ec/lenovo
+modem/none

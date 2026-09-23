@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), integrated Intel (i915), embedded controller: System76, no cellular modem.
+# score=43200 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/intel
+platform/desktop
+ec/system76
+modem/none

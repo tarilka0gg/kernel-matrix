@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver), embedded controller: ASUS, no cellular modem.
+# score=13440 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/xe
+platform/desktop
+ec/asus
+modem/none

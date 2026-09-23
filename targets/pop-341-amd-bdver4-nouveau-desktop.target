@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), discrete NVIDIA (open nouveau driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=32 (popularity priority within top-999999)
+cpu/amd-bdver4
+gpu/nouveau
+platform/desktop
+ec/all
+modem/all

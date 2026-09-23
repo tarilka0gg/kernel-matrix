@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, no cellular modem.
+# score=8960 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/none

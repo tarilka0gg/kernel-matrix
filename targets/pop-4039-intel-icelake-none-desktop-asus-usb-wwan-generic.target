@@ -1,0 +1,7 @@
+# Desktop on Intel Core 10 gen mobile (Ice Lake), no separate GPU driver, embedded controller: ASUS, with a USB WWAN modem.
+# score=2016 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/none
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

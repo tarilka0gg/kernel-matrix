@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), older AMD/ATI cards pre-GCN (radeon), embedded controller: MSI, with a PCIe/SoC modem (Snapdragon X-like).
+# score=40 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/radeon-legacy
+platform/laptop
+ec/msi
+modem/mhi-soc

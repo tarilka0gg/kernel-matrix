@@ -1,0 +1,7 @@
+# Desktop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (open nouveau driver), embedded controller: System76, no cellular modem.
+# score=1920 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/nouveau
+platform/desktop
+ec/system76
+modem/none

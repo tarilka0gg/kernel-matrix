@@ -1,0 +1,7 @@
+# Laptop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (open nouveau driver), embedded controller: Dell, with a USB WWAN modem.
+# score=2880 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/nouveau
+platform/laptop
+ec/dell
+modem/usb-wwan-generic

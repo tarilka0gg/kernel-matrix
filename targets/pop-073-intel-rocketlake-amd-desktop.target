@@ -1,0 +1,7 @@
+# Desktop on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu) (all vendor EC/WMI and modem drivers included as modules).
+# score=256 (popularity priority within top-999999)
+cpu/intel-rocketlake
+gpu/amd
+platform/desktop
+ec/all
+modem/all

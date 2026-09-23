@@ -1,0 +1,7 @@
+# Laptop on Intel Core 3 gen (Ivy Bridge), Intel Arc/Battlemage+ (new Xe driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=840 (popularity priority within top-11000)
+cpu/intel-ivybridge
+gpu/xe
+platform/laptop
+ec/asus
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), integrated Intel (i915), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=32400 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/intel
+platform/laptop
+ec/lenovo
+modem/none

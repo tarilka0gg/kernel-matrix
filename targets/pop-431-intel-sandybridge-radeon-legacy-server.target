@@ -1,0 +1,7 @@
+# Server on Intel Core 2 gen (Sandy Bridge), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+# score=6 (popularity priority within top-999999)
+cpu/intel-sandybridge
+gpu/radeon-legacy
+platform/server
+ec/all
+modem/all

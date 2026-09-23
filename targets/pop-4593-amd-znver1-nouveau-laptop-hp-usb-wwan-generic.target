@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 1000/2000 (Zen 1), discrete NVIDIA (open nouveau driver), embedded controller: HP, with a USB WWAN modem.
+# score=1440 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/nouveau
+platform/laptop
+ec/hp
+modem/usb-wwan-generic

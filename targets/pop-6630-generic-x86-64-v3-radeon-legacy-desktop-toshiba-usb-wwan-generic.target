@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v3 CPU (safe fallback), older AMD/ATI cards pre-GCN (radeon), embedded controller: Toshiba, with a USB WWAN modem.
+# score=192 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/radeon-legacy
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

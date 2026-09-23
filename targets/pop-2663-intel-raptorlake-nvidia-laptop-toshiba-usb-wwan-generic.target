@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), discrete NVIDIA (proprietary driver), embedded controller: Toshiba, with a USB WWAN modem.
+# score=4800 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/nvidia
+platform/laptop
+ec/toshiba
+modem/usb-wwan-generic

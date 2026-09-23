@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=57600 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/amd
+platform/laptop
+ec/lenovo
+modem/none

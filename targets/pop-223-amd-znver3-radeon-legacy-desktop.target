@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), older AMD/ATI cards pre-GCN (radeon) (all vendor EC/WMI and modem drivers included as modules).
+# score=48 (popularity priority within top-999999)
+cpu/amd-znver3
+gpu/radeon-legacy
+platform/desktop
+ec/all
+modem/all

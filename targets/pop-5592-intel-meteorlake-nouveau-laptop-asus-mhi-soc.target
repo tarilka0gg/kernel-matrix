@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 1 (Meteor Lake), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=700 (popularity priority within top-11000)
+cpu/intel-meteorlake
+gpu/nouveau
+platform/laptop
+ec/asus
+modem/mhi-soc

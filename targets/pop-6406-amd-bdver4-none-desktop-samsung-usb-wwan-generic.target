@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver, embedded controller: Samsung, with a USB WWAN modem.
+# score=288 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/none
+platform/desktop
+ec/samsung
+modem/usb-wwan-generic

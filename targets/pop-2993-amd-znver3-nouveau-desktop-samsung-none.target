@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver), embedded controller: Samsung, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nouveau
+platform/desktop
+ec/samsung
+modem/none

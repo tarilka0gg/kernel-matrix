@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v2 CPU (broad compatibility), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Samsung, with a USB WWAN modem.
+# score=960 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/amd
+platform/laptop
+ec/samsung
+modem/usb-wwan-generic

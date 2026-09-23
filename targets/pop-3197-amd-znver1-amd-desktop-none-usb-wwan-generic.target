@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 1000/2000 (Zen 1), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=3456 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/amd
+platform/desktop
+ec/none
+modem/usb-wwan-generic

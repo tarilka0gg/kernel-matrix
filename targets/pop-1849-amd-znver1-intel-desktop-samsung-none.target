@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 1000/2000 (Zen 1), integrated Intel (i915), embedded controller: Samsung, no cellular modem.
+# score=8640 (popularity priority within top-11000)
+cpu/amd-znver1
+gpu/intel
+platform/desktop
+ec/samsung
+modem/none

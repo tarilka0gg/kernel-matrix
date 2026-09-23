@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver), embedded controller: System76, no cellular modem.
+# score=7200 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nouveau
+platform/laptop
+ec/system76
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), integrated Intel (i915), embedded controller: System76, no cellular modem.
+# score=4320 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/intel
+platform/desktop
+ec/system76
+modem/none

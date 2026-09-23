@@ -1,0 +1,7 @@
+# Laptop on Intel Core 2 gen (Sandy Bridge), discrete NVIDIA (open nouveau driver), embedded controller: Toshiba, no cellular modem.
+# score=1600 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/nouveau
+platform/laptop
+ec/toshiba
+modem/none

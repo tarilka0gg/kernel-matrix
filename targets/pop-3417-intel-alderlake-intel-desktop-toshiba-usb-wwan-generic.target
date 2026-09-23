@@ -1,0 +1,7 @@
+# Desktop on Intel Core 12 gen (Alder Lake), integrated Intel (i915), embedded controller: Toshiba, with a USB WWAN modem.
+# score=3024 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/intel
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

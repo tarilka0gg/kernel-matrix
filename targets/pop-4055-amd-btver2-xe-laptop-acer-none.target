@@ -1,0 +1,7 @@
+# Laptop on AMD Jaguar (btver2, low-voltage APUs), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Acer, no cellular modem.
+# score=2000 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/xe
+platform/laptop
+ec/acer
+modem/none

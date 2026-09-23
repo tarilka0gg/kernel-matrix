@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: Acer, with a USB WWAN modem.
+# score=6480 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/desktop
+ec/acer
+modem/usb-wwan-generic

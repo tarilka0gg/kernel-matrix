@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12 gen (Alder Lake), integrated Intel (i915), embedded controller: System76, no cellular modem.
+# score=37800 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/intel
+platform/laptop
+ec/system76
+modem/none

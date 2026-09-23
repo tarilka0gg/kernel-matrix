@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver, embedded controller: Toshiba, with a PCIe/SoC modem (Snapdragon X-like).
+# score=300 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/none
+platform/laptop
+ec/toshiba
+modem/mhi-soc

@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (open nouveau driver), embedded controller: Toshiba, with a USB WWAN modem.
+# score=576 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nouveau
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

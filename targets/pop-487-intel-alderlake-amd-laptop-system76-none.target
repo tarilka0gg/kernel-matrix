@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: System76, no cellular modem.
+# score=33600 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/amd
+platform/laptop
+ec/system76
+modem/none

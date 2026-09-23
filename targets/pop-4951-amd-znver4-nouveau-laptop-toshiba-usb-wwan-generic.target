@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 7000/8000 (Zen 4), discrete NVIDIA (open nouveau driver), embedded controller: Toshiba, with a USB WWAN modem.
+# score=1080 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/nouveau
+platform/laptop
+ec/toshiba
+modem/usb-wwan-generic

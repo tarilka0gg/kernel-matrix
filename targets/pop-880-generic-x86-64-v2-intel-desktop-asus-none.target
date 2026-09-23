@@ -1,0 +1,7 @@
+# Desktop on any x86-64-v2 CPU (broad compatibility), integrated Intel (i915), embedded controller: ASUS, no cellular modem.
+# score=20160 (popularity priority within top-11000)
+cpu/generic-x86-64-v2
+gpu/intel
+platform/desktop
+ec/asus
+modem/none

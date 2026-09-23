@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), no cellular modem.
+# score=11520 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/amd
+platform/desktop
+ec/lenovo
+modem/none

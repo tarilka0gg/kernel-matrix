@@ -1,0 +1,7 @@
+# Laptop on any x86-64-v3 CPU (safe fallback), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Acer, with a PCIe/SoC modem (Snapdragon X-like).
+# score=400 (popularity priority within top-11000)
+cpu/generic-x86-64-v3
+gpu/xe
+platform/laptop
+ec/acer
+modem/mhi-soc

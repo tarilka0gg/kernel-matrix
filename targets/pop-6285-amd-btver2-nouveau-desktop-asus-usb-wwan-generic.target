@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (open nouveau driver), embedded controller: ASUS, with a USB WWAN modem.
+# score=336 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/nouveau
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=4608 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/amd
+platform/desktop
+ec/none
+modem/usb-wwan-generic

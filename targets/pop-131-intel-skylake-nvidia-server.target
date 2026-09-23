@@ -1,0 +1,7 @@
+# Server on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), discrete NVIDIA (proprietary driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=144 (popularity priority within top-999999)
+cpu/intel-skylake
+gpu/nvidia
+platform/server
+ec/all
+modem/all

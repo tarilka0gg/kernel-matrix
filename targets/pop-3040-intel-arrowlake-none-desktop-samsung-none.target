@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), no separate GPU driver, embedded controller: Samsung, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/none
+platform/desktop
+ec/samsung
+modem/none

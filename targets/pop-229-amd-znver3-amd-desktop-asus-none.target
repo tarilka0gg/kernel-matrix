@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, no cellular modem.
+# score=53760 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/amd
+platform/desktop
+ec/asus
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 3 gen (Ivy Bridge), no separate GPU driver, embedded controller: no vendor EC/WMI, with a USB WWAN modem.
+# score=864 (popularity priority within top-11000)
+cpu/intel-ivybridge
+gpu/none
+platform/desktop
+ec/none
+modem/usb-wwan-generic

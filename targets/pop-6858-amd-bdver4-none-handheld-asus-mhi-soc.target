@@ -1,0 +1,7 @@
+# Handheld on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver, embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=84 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/none
+platform/handheld
+ec/asus
+modem/mhi-soc

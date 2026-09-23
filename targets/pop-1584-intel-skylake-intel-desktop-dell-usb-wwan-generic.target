@@ -1,0 +1,7 @@
+# Desktop on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), integrated Intel (i915), embedded controller: Dell, with a USB WWAN modem.
+# score=10368 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/intel
+platform/desktop
+ec/dell
+modem/usb-wwan-generic

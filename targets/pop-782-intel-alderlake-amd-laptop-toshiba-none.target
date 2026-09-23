@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12 gen (Alder Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: Toshiba, no cellular modem.
+# score=22400 (popularity priority within top-11000)
+cpu/intel-alderlake
+gpu/amd
+platform/laptop
+ec/toshiba
+modem/none

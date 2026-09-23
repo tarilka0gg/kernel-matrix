@@ -1,0 +1,7 @@
+# Server on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=54 (popularity priority within top-999999)
+cpu/intel-skylake
+gpu/none
+platform/server
+ec/all
+modem/all

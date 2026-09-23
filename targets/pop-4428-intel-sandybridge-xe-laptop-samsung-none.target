@@ -1,0 +1,7 @@
+# Laptop on Intel Core 2 gen (Sandy Bridge), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Samsung, no cellular modem.
+# score=1600 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/xe
+platform/laptop
+ec/samsung
+modem/none

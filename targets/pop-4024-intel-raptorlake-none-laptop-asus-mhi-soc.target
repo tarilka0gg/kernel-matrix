@@ -1,0 +1,7 @@
+# Laptop on Intel Core 12-14 gen (Raptor/Raptor Refresh Lake), no separate GPU driver, embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=2100 (popularity priority within top-11000)
+cpu/intel-raptorlake
+gpu/none
+platform/laptop
+ec/asus
+modem/mhi-soc

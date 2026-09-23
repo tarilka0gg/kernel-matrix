@@ -1,0 +1,7 @@
+# Server on AMD Ryzen 3000/4000 (Zen 2), no separate GPU driver (all vendor EC/WMI and modem drivers included as modules).
+# score=45 (popularity priority within top-999999)
+cpu/amd-znver2
+gpu/none
+platform/server
+ec/all
+modem/all

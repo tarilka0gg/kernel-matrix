@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), Intel Arc/Battlemage+ (new Xe driver), embedded controller: Toshiba, with a USB WWAN modem.
+# score=576 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/xe
+platform/desktop
+ec/toshiba
+modem/usb-wwan-generic

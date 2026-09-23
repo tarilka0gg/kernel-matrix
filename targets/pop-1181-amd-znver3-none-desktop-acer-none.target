@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), no separate GPU driver, embedded controller: Acer, no cellular modem.
+# score=14400 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/none
+platform/desktop
+ec/acer
+modem/none

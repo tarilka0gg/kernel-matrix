@@ -1,0 +1,7 @@
+# Laptop on Intel Core 3 gen (Ivy Bridge), discrete NVIDIA (proprietary driver), embedded controller: System76, no cellular modem.
+# score=9600 (popularity priority within top-11000)
+cpu/intel-ivybridge
+gpu/nvidia
+platform/laptop
+ec/system76
+modem/none

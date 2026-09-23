@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, with a USB WWAN modem.
+# score=5376 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/amd
+platform/desktop
+ec/asus
+modem/usb-wwan-generic

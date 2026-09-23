@@ -1,0 +1,7 @@
+# Handheld on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), no separate GPU driver, embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=252 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/none
+platform/handheld
+ec/asus
+modem/mhi-soc

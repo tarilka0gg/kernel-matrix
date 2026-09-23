@@ -1,0 +1,7 @@
+# Laptop on AMD Ryzen 5000 (Zen 3), older AMD/ATI cards pre-GCN (radeon), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a PCIe/SoC modem (Snapdragon X-like).
+# score=540 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/radeon-legacy
+platform/laptop
+ec/lenovo
+modem/mhi-soc

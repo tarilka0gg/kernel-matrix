@@ -1,0 +1,7 @@
+# Laptop on Intel Core 4-5 gen (Haswell/Broadwell), discrete NVIDIA (proprietary driver), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=28800 (popularity priority within top-11000)
+cpu/intel-haswell
+gpu/nvidia
+platform/laptop
+ec/none
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=5760 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/none
+platform/desktop
+ec/none
+modem/none

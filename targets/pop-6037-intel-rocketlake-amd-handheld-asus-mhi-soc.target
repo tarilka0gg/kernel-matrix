@@ -1,0 +1,7 @@
+# Handheld on Intel Core 11 gen desktop (Rocket Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, with a PCIe/SoC modem (Snapdragon X-like).
+# score=448 (popularity priority within top-11000)
+cpu/intel-rocketlake
+gpu/amd
+platform/handheld
+ec/asus
+modem/mhi-soc

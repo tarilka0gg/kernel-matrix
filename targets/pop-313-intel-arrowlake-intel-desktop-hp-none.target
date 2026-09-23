@@ -1,0 +1,7 @@
+# Desktop on Intel Core Ultra 2 (Arrow Lake), integrated Intel (i915), embedded controller: HP, no cellular modem.
+# score=46080 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/intel
+platform/desktop
+ec/hp
+modem/none

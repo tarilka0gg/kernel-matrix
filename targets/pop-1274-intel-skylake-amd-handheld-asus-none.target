@@ -1,0 +1,7 @@
+# Handheld on Intel Core 6-10 gen (Skylake/Kaby/Coffee/Comet Lake), AMD (iGPU/APU or discrete, amdgpu), embedded controller: ASUS, no cellular modem.
+# score=13440 (popularity priority within top-11000)
+cpu/intel-skylake
+gpu/amd
+platform/handheld
+ec/asus
+modem/none

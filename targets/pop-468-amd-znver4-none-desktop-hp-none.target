@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 7000/8000 (Zen 4), no separate GPU driver, embedded controller: HP, no cellular modem.
+# score=34560 (popularity priority within top-11000)
+cpu/amd-znver4
+gpu/none
+platform/desktop
+ec/hp
+modem/none

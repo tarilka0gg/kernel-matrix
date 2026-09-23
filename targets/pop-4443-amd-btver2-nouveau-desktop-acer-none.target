@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), discrete NVIDIA (open nouveau driver), embedded controller: Acer, no cellular modem.
+# score=1600 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/nouveau
+platform/desktop
+ec/acer
+modem/none

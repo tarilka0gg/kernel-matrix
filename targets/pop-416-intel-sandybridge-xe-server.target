@@ -1,0 +1,7 @@
+# Server on Intel Core 2 gen (Sandy Bridge), Intel Arc/Battlemage+ (new Xe driver) (all vendor EC/WMI and modem drivers included as modules).
+# score=12 (popularity priority within top-999999)
+cpu/intel-sandybridge
+gpu/xe
+platform/server
+ec/all
+modem/all

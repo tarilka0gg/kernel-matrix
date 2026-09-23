@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), discrete NVIDIA (proprietary driver), embedded controller: Samsung, with a USB WWAN modem.
+# score=2304 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/nvidia
+platform/desktop
+ec/samsung
+modem/usb-wwan-generic

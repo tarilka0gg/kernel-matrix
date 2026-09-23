@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), no separate GPU driver, embedded controller: HP, no cellular modem.
+# score=3840 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/none
+platform/desktop
+ec/hp
+modem/none

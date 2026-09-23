@@ -1,0 +1,7 @@
+# Desktop on AMD Ryzen 5000 (Zen 3), integrated Intel (i915), embedded controller: Samsung, no cellular modem.
+# score=17280 (popularity priority within top-11000)
+cpu/amd-znver3
+gpu/intel
+platform/desktop
+ec/samsung
+modem/none

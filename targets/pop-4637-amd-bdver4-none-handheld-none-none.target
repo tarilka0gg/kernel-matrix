@@ -1,0 +1,7 @@
+# Handheld on AMD Excavator/Bulldozer line (bdver4, A-series/FX), no separate GPU driver, embedded controller: no vendor EC/WMI, no cellular modem.
+# score=1440 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/none
+platform/handheld
+ec/none
+modem/none

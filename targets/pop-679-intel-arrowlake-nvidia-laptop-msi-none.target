@@ -1,0 +1,7 @@
+# Laptop on Intel Core Ultra 2 (Arrow Lake), discrete NVIDIA (proprietary driver), embedded controller: MSI, no cellular modem.
+# score=25600 (popularity priority within top-11000)
+cpu/intel-arrowlake
+gpu/nvidia
+platform/laptop
+ec/msi
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on AMD Jaguar (btver2, low-voltage APUs), Intel Arc/Battlemage+ (new Xe driver), embedded controller: System76, no cellular modem.
+# score=960 (popularity priority within top-11000)
+cpu/amd-btver2
+gpu/xe
+platform/desktop
+ec/system76
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on AMD Excavator/Bulldozer line (bdver4, A-series/FX), older AMD/ATI cards pre-GCN (radeon), embedded controller: Lenovo (ThinkPad/IdeaPad/Legion), with a USB WWAN modem.
+# score=432 (popularity priority within top-11000)
+cpu/amd-bdver4
+gpu/radeon-legacy
+platform/desktop
+ec/lenovo
+modem/usb-wwan-generic

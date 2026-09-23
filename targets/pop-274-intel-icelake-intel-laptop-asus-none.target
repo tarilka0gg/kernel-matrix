@@ -1,0 +1,7 @@
+# Laptop on Intel Core 10 gen mobile (Ice Lake), integrated Intel (i915), embedded controller: ASUS, no cellular modem.
+# score=50400 (popularity priority within top-11000)
+cpu/intel-icelake
+gpu/intel
+platform/laptop
+ec/asus
+modem/none

@@ -1,0 +1,7 @@
+# Desktop on Intel Core 2 gen (Sandy Bridge), no separate GPU driver, embedded controller: MSI, with a USB WWAN modem.
+# score=576 (popularity priority within top-11000)
+cpu/intel-sandybridge
+gpu/none
+platform/desktop
+ec/msi
+modem/usb-wwan-generic

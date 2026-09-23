@@ -1,0 +1,7 @@
+# Handheld on AMD Ryzen 3000/4000 (Zen 2), AMD (iGPU/APU or discrete, amdgpu), embedded controller: no vendor EC/WMI, no cellular modem.
+# score=9600 (popularity priority within top-11000)
+cpu/amd-znver2
+gpu/amd
+platform/handheld
+ec/none
+modem/none
