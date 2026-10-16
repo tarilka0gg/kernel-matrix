@@ -166,13 +166,27 @@ Laptop vendor EC options on `platform/desktop`/`platform/server` (no `ACPI_BATTE
 **Kernels built.** A batch build on Aug 13-14, 2026 produced **304** `bzImage` files (ranks 1-304), all `kernelrelease 7.1.6-cachyos-trim11-tuned`, ≈9.3 MB each. `build-popular.log` shows 0 `FAIL` and 2 `OK_WARN`. Per the last run's `status.tsv`, the per-batch time was 164-294 s. There are also 38 devel archives for the nvidia targets. The code is here; the built `vmlinuz` files (≈2.8 GB) aren't kept in the repo.
 
 **Verified:**
-- These builds were made **before** the 2026-09-19 config fixes (new `common/hardware.config`, a fixed seed, vendor gates in `ec/*`, `WWAN` in `modem/*`, AMD-specific bits in `cpu/amd-*` and `cpu/generic-*`, iGPU drivers in `gpu/nvidia|nouveau`). I haven't rebuilt since those fixes.
+- These builds were made **before** the 2026-09-19 config fixes (new `common/hardware.config`, a fixed seed, vendor gates in `ec/*`, `WWAN` in `modem/*`, AMD-specific bits in `cpu/amd-*` and `cpu/generic-*`, iGPU drivers in `gpu/nvidia|nouveau`). The generic kernels published for the Simple Linux installer were rebuilt with the fixed `common/hardware.config` (the touchpad bus drivers); the full set of 304 was not.
 - While making the fixes, `verify-fragments.sh` showed `DEAD=0` across all 304 popular targets. That's just config resolution, though — I haven't rerun the check in this repo since.
 
 **Not verified:**
 - Compiling the new options (needs a fresh build).
 - Booting the kernels on hardware other than mine: I don't have any. A verified `build + boot` exists only for my own Victus configuration.
 - The Victus touchpad (`SYNA32E3:00` on Intel Serial IO I2C) doesn't work without `MFD_INTEL_LPSS_PCI`. That option has been added to the matrix; on my own 7.1.8 kernel it's still disabled.
+
+### Used by the Simple Linux installer
+
+[Simple Linux](https://github.com/tarilka0gg/simple-linux)' installer picks a kernel by the detected hardware (`<cpu>-<gpu>-<platform>`, for example `intel-raptorlake-nvidia-laptop`). Two ways use this repo:
+
+- **Ready kernels.** Ten builds made from these fragments (generic x86-64 v2/v3 and Raptor Lake, by GPU vendor and laptop/desktop) are published in the `kernels` release of
+  [simple-linux-binhost](https://github.com/tarilka0gg/simple-linux-binhost). The installer uses the one for exactly the hardware, otherwise the closest generic one. Not all 304 popular targets are
+  published: that would be about 2.8 GB of kernels.
+- **Built on the new system (optional, off by default).** The installer's Advanced → Optimization page has "Build the kernel for this computer". When the store has no kernel for exactly the hardware, the installer
+  clones this repo, fetches the vanilla `linux-7.1.8` tarball from kernel.org (checked against kernel.org's sha256), copies `seed/default.config` to `.config`, merges `common/*.config`, then
+  `cpu/…`, `gpu/…`, `platform/…`, `ec/all` and `modem/all` with `scripts/kconfig/merge_config.sh -m` (the order of `build-config.sh`), runs `make olddefconfig`, builds with gcc (clang if gcc fails)
+  and installs the kernel and modules. Verified once, in a VM, for `intel-raptorlake-none-desktop`: it built and the installed system booted on it. Note that the seed comes from the CachyOS tree: on a
+  vanilla tree its CachyOS-only options (BORE and others) do not exist and are dropped by `olddefconfig`, so this is not bit-for-bit what the ready kernels are.
+- Not verified there: the clang fallback, the NVIDIA path (the installer keeps the parts of the tree the driver needs), and any hardware other than the author's.
 
 ## 10. Repository layout
 
