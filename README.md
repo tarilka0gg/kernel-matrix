@@ -43,7 +43,7 @@ An important property: generating a config **never touches `SRC/.config`** and d
 | Dimension | Count | Fragments (`<dimension>/*.config`) |
 |---|---|---|
 | **cpu** | 19 | `intel-sandybridge`, `intel-ivybridge`, `intel-haswell`, `intel-skylake`, `intel-icelake`, `intel-rocketlake`, `intel-alderlake`, `intel-raptorlake`, `intel-meteorlake`, `intel-arrowlake`, `amd-btver2`, `amd-bdver4`, `amd-znver1`…`amd-znver5`, `generic-x86-64-v2`, `generic-x86-64-v3` |
-| **gpu** | 7 | `intel` (i915), `xe` (Intel Arc/Battlemage), `nvidia` (proprietary driver), `nouveau`, `amd` (amdgpu), `radeon-legacy`, `none` |
+| **gpu** | 7 | `intel` (i915), `xe` (Intel Arc/Battlemage), `nvidia` (proprietary driver), `nouveau`, `amd` (amdgpu), `radeon-legacy`, `none` (the universal kernel: i915, xe, amdgpu, radeon and nouveau as modules) |
 | **platform** | 5 | `laptop`, `desktop`, `handheld`, `server`, `victus16-r1xxx` (a specific model) |
 | **ec** | 11 | `acer`, `asus`, `dell`, `hp`, `lenovo`, `msi`, `samsung`, `system76`, `toshiba`, `all` (all at once), `none` |
 | **modem** | 4 | `mhi-soc`, `usb-wwan-generic`, `all`, `none` |
